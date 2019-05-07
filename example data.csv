@@ -1,0 +1,1297 @@
+"","ID","Red_list_category","Latitude","Longitude","temperate_or_tropical","System","Primary_threat","year","Abundance"
+"14334",253,"VU",13.905,-60.97028,"Tropical","Terrestrial","Habitat loss",1950,1000
+"14504",83,"VU",-30,26,"Tropical","Terrestrial","Invasive spp/genes",1950,80
+"14505",82,"VU",-22,17,"Tropical","Terrestrial","Exploitation",1950,50000
+"28790",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1951,31
+"43376",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1952,31
+"57962",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1953,28
+"72548",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1954,31
+"87134",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1955,28
+"101720",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1956,25
+"102020",83,"VU",-30,26,"Tropical","Terrestrial","Invasive spp/genes",1956,110
+"116306",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1957,25
+"130871",405,"VU",47.5,16.41667,"Temperate","Terrestrial","Habitat degradation/change",1958,300
+"130892",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1958,31
+"131273",2,"VU",-4.33333,55.66667,"Tropical","Terrestrial","Invasive spp/genes",1958,30
+"145478",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1959,26
+"145803",58,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1959,20000
+"145829",32,"LC",-3.5,35.75,"Tropical","Terrestrial","Exploitation",1959,600
+"160064",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1960,24
+"160167",280,"VU",58.54111,41.77306,"Temperate","Terrestrial","Habitat loss",1960,1e+05
+"174650",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1961,33
+"174906",127,"VU",-3.16667,35.58333,"Tropical","Terrestrial","Disease",1961,67.5
+"174972",61,"LC",-34.05,20.45,"Tropical","Terrestrial","Invasive spp/genes",1961,84
+"174973",60,"LC",-2.33333,34.83333,"Tropical","Terrestrial","Disease",1961,260000
+"175001",32,"LC",-3.5,35.75,"Tropical","Terrestrial","Exploitation",1961,451
+"189236",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1962,38
+"189492",127,"VU",-3.16667,35.58333,"Tropical","Terrestrial","Disease",1962,12.5
+"189550",69,"LC",11.33333,14.66667,"Tropical","Terrestrial","Habitat loss",1962,20000
+"203822",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1963,38
+"204148",57,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1963,7500
+"218408",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1964,40
+"218734",57,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1964,15000
+"232994",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1965,44
+"233215",162,"EN",7.1,39.78333,"Tropical","Terrestrial","Habitat degradation/change",1965,7500
+"233221",156,"LC",2,33,"Tropical","Terrestrial","Habitat loss",1965,4500
+"233300",77,"NT",0.33333,32.58333,"Tropical","Terrestrial","Habitat loss",1965,230
+"233320",57,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1965,11250
+"233338",39,"LC",2,33,"Tropical","Terrestrial","Habitat loss",1965,25000
+"233345",32,"LC",-3.5,35.75,"Tropical","Terrestrial","Exploitation",1965,285
+"247559",405,"VU",47.5,16.41667,"Temperate","Terrestrial","Habitat degradation/change",1966,135
+"247580",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1966,38
+"247746",217,"EN",26.63333,93.38333,"Tropical","Terrestrial","Habitat loss",1966,349
+"247749",214,"VU",26.63333,93.38333,"Tropical","Terrestrial","Invasive spp/genes",1966,120
+"247752",211,"VU",26.63333,93.38333,"Tropical","Terrestrial","Habitat loss",1966,213
+"247754",209,"EN",26.63333,93.38333,"Tropical","Terrestrial","Invasive spp/genes",1966,471
+"247756",207,"VU",26.63333,93.38333,"Tropical","Terrestrial","Habitat loss",1966,1
+"247906",57,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1966,12000
+"262166",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1967,49
+"262350",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1967,7779
+"262438",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1967,6000
+"262463",86,"LC",3.88278,33.87444,"Tropical","Terrestrial","Exploitation",1967,72
+"262492",57,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1967,10500
+"262517",32,"LC",-3.5,35.75,"Tropical","Terrestrial","Exploitation",1967,380
+"276752",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1968,52
+"276845",291,"LC",78,20,"Temperate","Terrestrial","Disease",1968,2000
+"276871",264,"OA",18.72806,-64.32111,"Tropical","Terrestrial","Invasive spp/genes",1968,2.03
+"276936",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1968,7900
+"277024",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1968,6400
+"277049",86,"LC",3.88278,33.87444,"Tropical","Terrestrial","Exploitation",1968,143
+"277067",68,"LC",-8,32.16667,"Tropical","Terrestrial","Habitat degradation/change",1968,9000
+"277068",67,"LC",-7.5,32,"Tropical","Terrestrial","Habitat degradation/change",1968,13000
+"277078",57,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1968,14200
+"291338",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1969,58
+"291522",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1969,9710
+"291561",160,"LC",-13.5,34,"Tropical","Terrestrial","Habitat degradation/change",1969,350
+"291564",157,"LC",-2,30,"Tropical","Terrestrial","Habitat degradation/change",1969,575
+"291610",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1969,7600
+"291638",83,"VU",-30,26,"Tropical","Terrestrial","Invasive spp/genes",1969,150
+"291663",58,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1969,16100
+"291664",57,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1969,16750
+"305812",500,"LC",59,26,"Temperate","Terrestrial","Exploitation",1970,13500
+"305815",493,"LC",60,100,"Temperate","Terrestrial","Exploitation",1970,478000
+"305901",407,"VU",47,20,"Temperate","Terrestrial","Habitat degradation/change",1970,2700
+"305902",406,"VU",53.5,12,"Temperate","Terrestrial","Habitat degradation/change",1970,950
+"305924",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1970,60
+"305972",336,"LC",54,-4,"Temperate","Terrestrial","Habitat loss",1970,3250
+"306108",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1970,9005
+"306141",166,"EN",6.75,39.75,"Tropical","Terrestrial","Habitat loss",1970,1000
+"306188",119,"EN",-23.83333,31.5,"Tropical","Terrestrial","Habitat degradation/change",1970,250
+"306190",117,"EN",-3.16667,35.58333,"Tropical","Terrestrial","Habitat loss",1970,77
+"306196",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1970,8200
+"306233",74,"CR",1,38,"Tropical","Terrestrial","Exploitation",1970,19000
+"306234",73,"LC",-30,26,"Tropical","Terrestrial","Habitat loss",1970,700
+"306246",61,"LC",-34.05,20.45,"Tropical","Terrestrial","Invasive spp/genes",1970,190
+"306250",57,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1970,14200
+"306271",36,"LC",9.75,10.5,"Tropical","Terrestrial","Exploitation",1970,680
+"306275",32,"LC",-3.5,35.75,"Tropical","Terrestrial","Exploitation",1970,451
+"320510",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1971,59
+"320694",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1971,8370
+"320782",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1971,8700
+"320807",86,"LC",3.88278,33.87444,"Tropical","Terrestrial","Exploitation",1971,165
+"320835",58,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1971,16400
+"320836",57,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1971,16750
+"335096",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1972,64
+"335220",259,"EN",-26.41667,-48.83333,"Tropical","Terrestrial","Habitat loss",1972,450
+"335262",217,"EN",26.63333,93.38333,"Tropical","Terrestrial","Habitat loss",1972,422
+"335265",214,"VU",26.63333,93.38333,"Tropical","Terrestrial","Invasive spp/genes",1972,105
+"335268",211,"VU",26.63333,93.38333,"Tropical","Terrestrial","Habitat loss",1972,516
+"335270",209,"EN",26.63333,93.38333,"Tropical","Terrestrial","Invasive spp/genes",1972,555
+"335272",207,"VU",26.63333,93.38333,"Tropical","Terrestrial","Habitat loss",1972,18
+"335279",200,"EN",-8.86667,-140.1,"Tropical","Terrestrial","Invasive spp/genes",1972,70
+"335280",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1972,10200
+"335368",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1972,7800
+"335386",93,"EN",-1.16667,29.58333,"Tropical","Terrestrial","Habitat loss",1972,274
+"335421",58,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1972,15900
+"335422",57,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1972,15000
+"335425",54,"LC",-30,26,"Tropical","Terrestrial","Invasive spp/genes",1972,2200
+"349682",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1973,73
+"349811",254,"CR",18.23278,-66.4575,"Tropical","Terrestrial","Habitat loss",1973,16
+"349866",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1973,10175
+"349948",117,"EN",-3.16667,35.58333,"Tropical","Terrestrial","Habitat loss",1973,42
+"349949",116,"VU",2,33,"Tropical","Terrestrial","Exploitation",1973,30000
+"349954",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1973,7500
+"350000",65,"CR",0.51,38.05,"Tropical","Terrestrial","Habitat loss",1973,10000
+"350007",58,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1973,15600
+"350008",57,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1973,14000
+"350027",38,"LC",7.2,38.6,"Tropical","Terrestrial","Habitat degradation/change",1973,450
+"350040",25,"EN",-20.40444,57.42667,"Tropical","Terrestrial","Habitat loss",1973,59
+"350060",5,"EN",-20.3,57.58333,"Tropical","Terrestrial","Pollution",1973,1
+"364268",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1974,78
+"364397",254,"CR",18.23278,-66.4575,"Tropical","Terrestrial","Habitat loss",1974,16
+"364421",230,"NT",21.33306,70.79167,"Tropical","Terrestrial","Habitat degradation/change",1974,142
+"364422",229,"VU",21.33306,70.79167,"Tropical","Terrestrial","Habitat loss",1974,180
+"364452",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1974,9200
+"364534",117,"EN",-3.16667,35.58333,"Tropical","Terrestrial","Habitat loss",1974,44
+"364540",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1974,7800
+"364593",58,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1974,13500
+"364594",57,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1974,16000
+"364626",25,"EN",-20.40444,57.42667,"Tropical","Terrestrial","Habitat loss",1974,59
+"364646",5,"EN",-20.3,57.58333,"Tropical","Terrestrial","Pollution",1974,1
+"378832",406,"VU",53.5,12,"Temperate","Terrestrial","Habitat degradation/change",1975,850
+"378854",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1975,73
+"378947",291,"LC",78,20,"Temperate","Terrestrial","Disease",1975,3500
+"378974",263,"VU",18.08722,-67.97194,"Tropical","Terrestrial","Invasive spp/genes",1975,2000
+"378983",254,"CR",18.23278,-66.4575,"Tropical","Terrestrial","Habitat loss",1975,14
+"378994",243,"EN",17.97389,-67.12639,"Tropical","Terrestrial","Invasive spp/genes",1975,1663
+"379036",201,"EN",-9.38333,-140.05,"Tropical","Terrestrial","Invasive spp/genes",1975,275
+"379038",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1975,11680
+"379057",180,"NE",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1975,10.91
+"379058",179,"NE",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1975,39.6
+"379059",178,"EN",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1975,2.6
+"379061",176,"VU",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1975,14.26
+"379062",175,"EN",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1975,0.17
+"379071",166,"EN",6.75,39.75,"Tropical","Terrestrial","Habitat loss",1975,500
+"379105",132,"LC",-1.91667,40.11667,"Tropical","Terrestrial","Habitat loss",1975,1600
+"379110",127,"VU",-3.16667,35.58333,"Tropical","Terrestrial","Disease",1975,100
+"379118",119,"EN",-23.83333,31.5,"Tropical","Terrestrial","Habitat degradation/change",1975,220
+"379120",117,"EN",-3.16667,35.58333,"Tropical","Terrestrial","Habitat loss",1975,59
+"379126",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1975,7600
+"379151",86,"LC",3.88278,33.87444,"Tropical","Terrestrial","Exploitation",1975,76
+"379160",77,"NT",0.33333,32.58333,"Tropical","Terrestrial","Habitat loss",1975,187
+"379171",66,"CR",1,38,"Tropical","Terrestrial","Disease",1975,12500
+"379179",58,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1975,16200
+"379180",57,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1975,15950
+"379184",53,"LC",0.56667,30.36667,"Tropical","Terrestrial","Habitat loss",1975,0.91
+"379200",37,"LC",9.08333,40,"Tropical","Terrestrial","Habitat degradation/change",1975,12
+"379201",36,"LC",9.75,10.5,"Tropical","Terrestrial","Exploitation",1975,800
+"379205",32,"LC",-3.5,35.75,"Tropical","Terrestrial","Exploitation",1975,985
+"379208",29,"VU",-10.91417,23.99833,"Tropical","Terrestrial","Disease",1975,15000
+"379212",25,"EN",-20.40444,57.42667,"Tropical","Terrestrial","Habitat loss",1975,49
+"379217",20,"VU",-26.5,31.5,"Tropical","Terrestrial","Habitat loss",1975,10
+"379230",7,"VU",-22,24,"Tropical","Terrestrial","Habitat loss",1975,685
+"379232",5,"EN",-20.3,57.58333,"Tropical","Terrestrial","Pollution",1975,1
+"379235",2,"VU",-4.33333,55.66667,"Tropical","Terrestrial","Invasive spp/genes",1975,274
+"393440",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1976,79
+"393566",257,"EN",-23,-60,"Tropical","Terrestrial","Exploitation",1976,72
+"393576",247,"EN",18.08722,-67.97194,"Tropical","Terrestrial","Invasive spp/genes",1976,200
+"393579",244,"EN",18.28833,-65.64,"Tropical","Terrestrial","Invasive spp/genes",1976,200
+"393596",227,"VU",30.00556,70.01472,"Temperate","Terrestrial","Exploitation",1976,1000
+"393598",225,"NT",36.58694,75.39972,"Temperate","Terrestrial","Exploitation",1976,300
+"393624",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1976,20802
+"393682",141,"LC",4.15972,29.49889,"Tropical","Terrestrial","Exploitation",1976,53000
+"393705",118,"EN",-19,29,"Tropical","Terrestrial","Exploitation",1976,600
+"393706",117,"EN",-3.16667,35.58333,"Tropical","Terrestrial","Habitat loss",1976,30
+"393707",116,"VU",2,33,"Tropical","Terrestrial","Exploitation",1976,6000
+"393712",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1976,7400
+"393720",103,"LC",-9,37.5,"Tropical","Terrestrial","Exploitation",1976,9700
+"393765",58,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1976,18000
+"393766",57,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1976,10100
+"393772",51,"EN",-1.89972,40.11833,"Tropical","Terrestrial","Habitat loss",1976,1500
+"393775",48,"NT",4.15972,25.49889,"Tropical","Terrestrial","Exploitation",1976,490
+"393782",41,"LC",-2.33333,34.83333,"Tropical","Terrestrial","Exploitation",1976,488
+"393791",32,"LC",-3.5,35.75,"Tropical","Terrestrial","Exploitation",1976,1071
+"393798",25,"EN",-20.40444,57.42667,"Tropical","Terrestrial","Habitat loss",1976,45
+"393818",5,"EN",-20.3,57.58333,"Tropical","Terrestrial","Pollution",1976,2
+"393819",4,"EN",-4.58333,55.93333,"Tropical","Terrestrial","Habitat loss",1976,46
+"408005",405,"VU",47.5,16.41667,"Temperate","Terrestrial","Habitat degradation/change",1977,30
+"408026",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1977,86
+"408049",361,"CR",37.02944,37.99028,"Temperate","Terrestrial","Pollution",1977,26
+"408152",257,"EN",-23,-60,"Tropical","Terrestrial","Exploitation",1977,22
+"408155",254,"CR",18.23278,-66.4575,"Tropical","Terrestrial","Habitat loss",1977,18
+"408156",253,"VU",13.905,-60.97028,"Tropical","Terrestrial","Habitat loss",1977,100
+"408183",226,"VU",32.83,71.62972,"Tropical","Terrestrial","Exploitation",1977,2157
+"408210",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1977,11320
+"408286",123,"VU",-0.25,30.18639,"Tropical","Terrestrial","Exploitation",1977,34
+"408292",117,"EN",-3.16667,35.58333,"Tropical","Terrestrial","Habitat loss",1977,26
+"408298",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1977,7000
+"408316",93,"EN",-1.16667,29.58333,"Tropical","Terrestrial","Habitat loss",1977,268
+"408328",81,"EN",1,38,"Tropical","Terrestrial","Invasive spp/genes",1977,13700
+"408340",69,"LC",11.33333,14.66667,"Tropical","Terrestrial","Habitat loss",1977,700
+"408341",68,"LC",-8,32.16667,"Tropical","Terrestrial","Habitat degradation/change",1977,1000
+"408342",67,"LC",-7.5,32,"Tropical","Terrestrial","Habitat degradation/change",1977,750
+"408351",58,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1977,15000
+"408352",57,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1977,10150
+"408384",25,"EN",-20.40444,57.42667,"Tropical","Terrestrial","Habitat loss",1977,45
+"408404",5,"EN",-20.3,57.58333,"Tropical","Terrestrial","Pollution",1977,4
+"408405",4,"EN",-4.58333,55.93333,"Tropical","Terrestrial","Habitat loss",1977,39
+"408406",3,"EN",-4.58333,55.66667,"Tropical","Terrestrial","Habitat loss",1977,38
+"422589",407,"VU",47,20,"Temperate","Terrestrial","Habitat degradation/change",1978,3600
+"422591",405,"VU",47.5,16.41667,"Temperate","Terrestrial","Habitat degradation/change",1978,83
+"422612",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1978,86
+"422635",361,"CR",37.02944,37.99028,"Temperate","Terrestrial","Pollution",1978,26
+"422647",349,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat loss",1978,1300000
+"422648",348,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat loss",1978,3700000
+"422686",310,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat degradation/change",1978,1590000
+"422720",275,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat degradation/change",1978,3500000
+"422722",273,"LC",56,10,"Temperate","Terrestrial","Habitat degradation/change",1978,1700000
+"422741",254,"CR",18.23278,-66.4575,"Tropical","Terrestrial","Habitat loss",1978,19
+"422778",217,"EN",26.63333,93.38333,"Tropical","Terrestrial","Habitat loss",1978,773
+"422781",214,"VU",26.63333,93.38333,"Tropical","Terrestrial","Invasive spp/genes",1978,215
+"422784",211,"VU",26.63333,93.38333,"Tropical","Terrestrial","Habitat loss",1978,697
+"422786",209,"EN",26.63333,93.38333,"Tropical","Terrestrial","Invasive spp/genes",1978,610
+"422788",207,"VU",26.63333,93.38333,"Tropical","Terrestrial","Habitat loss",1978,23
+"422796",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1978,6188
+"422808",187,"NT",-29.03333,167.95,"Tropical","Terrestrial","Invasive spp/genes",1978,24
+"422815",180,"NE",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1978,19.46
+"422816",179,"NE",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1978,35.37
+"422817",178,"EN",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1978,2.53
+"422819",176,"VU",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1978,14.85
+"422820",175,"EN",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1978,0.21
+"422825",170,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1978,10000
+"422853",142,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1978,3000
+"422855",140,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1978,3600
+"422860",135,"CR",-19.7,63.41667,"Tropical","Terrestrial","Habitat loss",1978,151
+"422864",131,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1978,4900
+"422868",127,"VU",-3.16667,35.58333,"Tropical","Terrestrial","Disease",1978,73
+"422872",123,"VU",-0.25,30.18639,"Tropical","Terrestrial","Exploitation",1978,30
+"422873",122,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1978,26000
+"422879",116,"VU",2,33,"Tropical","Terrestrial","Exploitation",1978,4000
+"422884",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1978,7500
+"422887",108,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1978,50000
+"422890",105,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1978,1200
+"422896",99,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1978,1700
+"422899",96,"EN",-2.301579,28.696392,"Tropical","Terrestrial","Habitat degradation/change",1978,240
+"422925",70,"LC",7,21,"Tropical","Terrestrial","Exploitation",1978,55900
+"422930",65,"CR",0.51,38.05,"Tropical","Terrestrial","Habitat loss",1978,2385
+"422938",57,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1978,11900
+"422941",54,"LC",-30,26,"Tropical","Terrestrial","Invasive spp/genes",1978,5900
+"422950",45,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1978,15000
+"422951",44,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1978,6000
+"422961",34,"LC",9,-3.5,"Tropical","Terrestrial","Exploitation",1978,13000
+"422970",25,"EN",-20.40444,57.42667,"Tropical","Terrestrial","Habitat loss",1978,20
+"422989",6,"CR",11.76667,42.65806,"Tropical","Terrestrial","Habitat loss",1978,5600
+"422990",5,"EN",-20.3,57.58333,"Tropical","Terrestrial","Pollution",1978,1
+"422991",4,"EN",-4.58333,55.93333,"Tropical","Terrestrial","Habitat loss",1978,38
+"422992",3,"EN",-4.58333,55.66667,"Tropical","Terrestrial","Habitat loss",1978,41
+"437177",405,"VU",47.5,16.41667,"Temperate","Terrestrial","Habitat degradation/change",1979,74
+"437198",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1979,86
+"437221",361,"CR",37.02944,37.99028,"Temperate","Terrestrial","Pollution",1979,24
+"437233",349,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat loss",1979,2300000
+"437234",348,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat loss",1979,3400000
+"437272",310,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat degradation/change",1979,1500000
+"437293",288,"LC",54.25,13.58333,"Temperate","Terrestrial","Exploitation",1979,312
+"437306",275,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat degradation/change",1979,5e+06
+"437308",273,"LC",56,10,"Temperate","Terrestrial","Habitat degradation/change",1979,1300000
+"437324",257,"EN",-23,-60,"Tropical","Terrestrial","Exploitation",1979,10
+"437327",254,"CR",18.23278,-66.4575,"Tropical","Terrestrial","Habitat loss",1979,25
+"437351",230,"NT",21.33306,70.79167,"Tropical","Terrestrial","Habitat degradation/change",1979,161
+"437352",229,"VU",21.33306,70.79167,"Tropical","Terrestrial","Habitat loss",1979,205
+"437382",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1979,6290
+"437391",190,"CR",-37,144,"Tropical","Terrestrial","Habitat loss",1979,72
+"437446",135,"CR",-19.7,63.41667,"Tropical","Terrestrial","Habitat loss",1979,70
+"437458",123,"VU",-0.25,30.18639,"Tropical","Terrestrial","Exploitation",1979,39
+"437464",117,"EN",-3.16667,35.58333,"Tropical","Terrestrial","Habitat loss",1979,22
+"437470",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1979,7300
+"437485",96,"EN",-2.301579,28.696392,"Tropical","Terrestrial","Habitat degradation/change",1979,223
+"437556",25,"EN",-20.40444,57.42667,"Tropical","Terrestrial","Habitat loss",1979,13
+"437576",5,"EN",-20.3,57.58333,"Tropical","Terrestrial","Pollution",1979,1
+"437577",4,"EN",-4.58333,55.93333,"Tropical","Terrestrial","Habitat loss",1979,38
+"451762",406,"VU",53.5,12,"Temperate","Terrestrial","Habitat degradation/change",1980,550
+"451763",405,"VU",47.5,16.41667,"Temperate","Terrestrial","Habitat degradation/change",1980,31
+"451784",384,"NT",52.5,-3.75,"Temperate","Terrestrial","Exploitation",1980,98
+"451803",365,"LC",41.25,1.58333,"Temperate","Terrestrial","Exploitation",1980,14
+"451805",363,"LC",42.33333,-3.66667,"Temperate","Terrestrial","Exploitation",1980,21
+"451807",361,"CR",37.02944,37.99028,"Temperate","Terrestrial","Pollution",1980,18
+"451808",360,"CR",30.08333,-9.66667,"Temperate","Terrestrial","Habitat loss",1980,67
+"451819",349,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat loss",1980,1900000
+"451820",348,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat loss",1980,3750000
+"451858",310,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat degradation/change",1980,1650000
+"451879",288,"LC",54.25,13.58333,"Temperate","Terrestrial","Exploitation",1980,387
+"451892",275,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat degradation/change",1980,4500000
+"451894",273,"LC",56,10,"Temperate","Terrestrial","Habitat degradation/change",1980,1200000
+"451913",254,"CR",18.23278,-66.4575,"Tropical","Terrestrial","Habitat loss",1980,18
+"451954",213,"LC",20,77,"Tropical","Terrestrial","Habitat degradation/change",1980,347
+"451969",198,"CR",19.59278,-155.51972,"Tropical","Terrestrial","Invasive spp/genes",1980,2200
+"451977",190,"CR",-37,144,"Tropical","Terrestrial","Habitat loss",1980,90
+"452001",166,"EN",6.75,39.75,"Tropical","Terrestrial","Habitat loss",1980,875
+"452014",153,"LC",13,-13,"Tropical","Terrestrial","Exploitation",1980,600
+"452048",119,"EN",-23.83333,31.5,"Tropical","Terrestrial","Habitat degradation/change",1980,350
+"452050",117,"EN",-3.16667,35.58333,"Tropical","Terrestrial","Habitat loss",1980,17
+"452051",116,"VU",2,33,"Tropical","Terrestrial","Exploitation",1980,2000
+"452056",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1980,7250
+"452101",66,"CR",1,38,"Tropical","Terrestrial","Disease",1980,7000
+"452110",57,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1980,18500
+"452114",53,"LC",0.56667,30.36667,"Tropical","Terrestrial","Habitat loss",1980,0.89
+"452142",25,"EN",-20.40444,57.42667,"Tropical","Terrestrial","Habitat loss",1980,11
+"452147",20,"VU",-26.5,31.5,"Tropical","Terrestrial","Habitat loss",1980,0
+"452160",7,"VU",-22,24,"Tropical","Terrestrial","Habitat loss",1980,815
+"452162",5,"EN",-20.3,57.58333,"Tropical","Terrestrial","Pollution",1980,2
+"452163",4,"EN",-4.58333,55.93333,"Tropical","Terrestrial","Habitat loss",1980,38
+"466349",405,"VU",47.5,16.41667,"Temperate","Terrestrial","Habitat degradation/change",1981,55
+"466389",365,"LC",41.25,1.58333,"Temperate","Terrestrial","Exploitation",1981,14
+"466393",361,"CR",37.02944,37.99028,"Temperate","Terrestrial","Pollution",1981,16
+"466394",360,"CR",30.08333,-9.66667,"Temperate","Terrestrial","Habitat loss",1981,48
+"466405",349,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat loss",1981,2750000
+"466406",348,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat loss",1981,3800000
+"466444",310,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat degradation/change",1981,1420000
+"466464",290,"LC",78,20,"Temperate","Terrestrial","Exploitation",1981,3500
+"466465",288,"LC",54.25,13.58333,"Temperate","Terrestrial","Exploitation",1981,200
+"466478",275,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat degradation/change",1981,5600000
+"466480",273,"LC",56,10,"Temperate","Terrestrial","Habitat degradation/change",1981,1250000
+"466494",259,"EN",-26.41667,-48.83333,"Tropical","Terrestrial","Habitat loss",1981,200
+"466496",257,"EN",-23,-60,"Tropical","Terrestrial","Exploitation",1981,6
+"466499",254,"CR",18.23278,-66.4575,"Tropical","Terrestrial","Habitat loss",1981,19
+"466506",247,"EN",18.08722,-67.97194,"Tropical","Terrestrial","Invasive spp/genes",1981,220
+"466528",225,"NT",36.58694,75.39972,"Temperate","Terrestrial","Exploitation",1981,160
+"466555",198,"CR",19.59278,-155.51972,"Tropical","Terrestrial","Invasive spp/genes",1981,3250
+"466561",192,"CR",-25,135,"Tropical","Terrestrial","Invasive spp/genes",1981,25
+"466563",190,"CR",-37,144,"Tropical","Terrestrial","Habitat loss",1981,82
+"466564",189,"CR",-38.4,142.23333,"Tropical","Terrestrial","Habitat loss",1981,150
+"466593",160,"LC",-13.5,34,"Tropical","Terrestrial","Habitat degradation/change",1981,4300
+"466618",135,"CR",-19.7,63.41667,"Tropical","Terrestrial","Habitat loss",1981,250
+"466636",117,"EN",-3.16667,35.58333,"Tropical","Terrestrial","Habitat loss",1981,18
+"466642",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1981,7200
+"466660",93,"EN",-1.16667,29.58333,"Tropical","Terrestrial","Habitat loss",1981,254
+"466677",76,"CR",-15.62583,30.42111,"Tropical","Terrestrial","Exploitation",1981,12500
+"466679",74,"CR",1,38,"Tropical","Terrestrial","Exploitation",1981,1500
+"466692",61,"LC",-34.05,20.45,"Tropical","Terrestrial","Invasive spp/genes",1981,320
+"466721",32,"LC",-3.5,35.75,"Tropical","Terrestrial","Exploitation",1981,1500
+"466728",25,"EN",-20.40444,57.42667,"Tropical","Terrestrial","Habitat loss",1981,11
+"466748",5,"EN",-20.3,57.58333,"Tropical","Terrestrial","Pollution",1981,2
+"466749",4,"EN",-4.58333,55.93333,"Tropical","Terrestrial","Habitat loss",1981,24
+"466750",3,"EN",-4.58333,55.66667,"Tropical","Terrestrial","Habitat loss",1981,21
+"480935",405,"VU",47.5,16.41667,"Temperate","Terrestrial","Habitat degradation/change",1982,51
+"480973",367,"LC",40.16667,-0.16667,"Temperate","Terrestrial","Exploitation",1982,46
+"480975",365,"LC",41.25,1.58333,"Temperate","Terrestrial","Exploitation",1982,14
+"480978",362,"LC",43.83333,6.25,"Temperate","Terrestrial","Exploitation",1982,16
+"480979",361,"CR",37.02944,37.99028,"Temperate","Terrestrial","Pollution",1982,12
+"480980",360,"CR",30.08333,-9.66667,"Temperate","Terrestrial","Habitat loss",1982,56
+"480991",349,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat loss",1982,2250000
+"480992",348,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat loss",1982,3600000
+"481030",310,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat degradation/change",1982,1100000
+"481050",290,"LC",78,20,"Temperate","Terrestrial","Exploitation",1982,3400
+"481051",288,"LC",54.25,13.58333,"Temperate","Terrestrial","Exploitation",1982,637
+"481058",281,"LC",51.5,10.5,"Temperate","Terrestrial","Habitat degradation/change",1982,125000
+"481063",276,"LC",51.5,10.5,"Temperate","Terrestrial","Exploitation",1982,75000
+"481064",275,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat degradation/change",1982,5e+06
+"481066",273,"LC",56,10,"Temperate","Terrestrial","Habitat degradation/change",1982,1150000
+"481085",254,"CR",18.23278,-66.4575,"Tropical","Terrestrial","Habitat loss",1982,18
+"481092",247,"EN",18.08722,-67.97194,"Tropical","Terrestrial","Invasive spp/genes",1982,310
+"481095",244,"EN",18.28833,-65.64,"Tropical","Terrestrial","Invasive spp/genes",1982,6
+"481096",243,"EN",17.97389,-67.12639,"Tropical","Terrestrial","Invasive spp/genes",1982,266
+"481108",231,"EN",26.35722,117.19778,"Tropical","Terrestrial","Exploitation",1982,175
+"481126",213,"LC",20,77,"Tropical","Terrestrial","Habitat degradation/change",1982,430
+"481141",198,"CR",19.59278,-155.51972,"Tropical","Terrestrial","Invasive spp/genes",1982,1500
+"481149",190,"CR",-37,144,"Tropical","Terrestrial","Habitat loss",1982,70
+"481159",180,"NE",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1982,18.37
+"481160",179,"NE",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1982,29.47
+"481161",178,"EN",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1982,1.25
+"481162",177,"VU",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1982,10
+"481163",176,"VU",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1982,29.47
+"481164",175,"EN",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1982,0.56
+"481182",157,"LC",-2,30,"Tropical","Terrestrial","Habitat degradation/change",1982,425
+"481222",117,"EN",-3.16667,35.58333,"Tropical","Terrestrial","Habitat loss",1982,16
+"481228",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1982,8000
+"481314",25,"EN",-20.40444,57.42667,"Tropical","Terrestrial","Habitat loss",1982,11
+"481334",5,"EN",-20.3,57.58333,"Tropical","Terrestrial","Pollution",1982,4
+"481335",4,"EN",-4.58333,55.93333,"Tropical","Terrestrial","Habitat loss",1982,24
+"481336",3,"EN",-4.58333,55.66667,"Tropical","Terrestrial","Habitat loss",1982,24
+"495559",367,"LC",40.16667,-0.16667,"Temperate","Terrestrial","Exploitation",1983,46
+"495560",366,"LC",38,-1.5,"Temperate","Terrestrial","Exploitation",1983,37
+"495561",365,"LC",41.25,1.58333,"Temperate","Terrestrial","Exploitation",1983,14
+"495564",362,"LC",43.83333,6.25,"Temperate","Terrestrial","Exploitation",1983,15
+"495565",361,"CR",37.02944,37.99028,"Temperate","Terrestrial","Pollution",1983,16
+"495577",349,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat loss",1983,1600000
+"495578",348,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat loss",1983,3700000
+"495616",310,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat degradation/change",1983,1180000
+"495636",290,"LC",78,20,"Temperate","Terrestrial","Exploitation",1983,3400
+"495637",288,"LC",54.25,13.58333,"Temperate","Terrestrial","Exploitation",1983,300
+"495639",286,"LC",54,-4,"Temperate","Terrestrial","Habitat degradation/change",1983,424
+"495644",281,"LC",51.5,10.5,"Temperate","Terrestrial","Habitat degradation/change",1983,112500
+"495649",276,"LC",51.5,10.5,"Temperate","Terrestrial","Exploitation",1983,62500
+"495650",275,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat degradation/change",1983,4200000
+"495652",273,"LC",56,10,"Temperate","Terrestrial","Habitat degradation/change",1983,1100000
+"495665",260,"VU",10,-84,"Tropical","Terrestrial","Habitat loss",1983,2e+05
+"495712",213,"LC",20,77,"Tropical","Terrestrial","Habitat degradation/change",1983,482
+"495726",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1983,11200
+"495727",198,"CR",19.59278,-155.51972,"Tropical","Terrestrial","Invasive spp/genes",1983,3250
+"495735",190,"CR",-37,144,"Tropical","Terrestrial","Habitat loss",1983,122
+"495756",169,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1983,0.98
+"495762",163,"EN",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1983,26.5
+"495769",156,"LC",2,33,"Tropical","Terrestrial","Habitat loss",1983,1500
+"495770",155,"LC",-1.5,35,"Tropical","Terrestrial","Habitat loss",1983,579
+"495784",141,"LC",4.15972,29.49889,"Tropical","Terrestrial","Exploitation",1983,53000
+"495786",139,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1983,0.28
+"495787",138,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1983,17
+"495798",127,"VU",-3.16667,35.58333,"Tropical","Terrestrial","Disease",1983,122
+"495808",117,"EN",-3.16667,35.58333,"Tropical","Terrestrial","Habitat loss",1983,19
+"495811",114,"VU",-1.5,35,"Tropical","Terrestrial","Exploitation",1983,1413
+"495814",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1983,8500
+"495823",102,"LC",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1983,350
+"495854",71,"LC",-1.5,35,"Tropical","Terrestrial","Habitat loss",1983,23313
+"495871",54,"LC",-30,26,"Tropical","Terrestrial","Invasive spp/genes",1983,6200
+"495886",39,"LC",2,33,"Tropical","Terrestrial","Habitat loss",1983,18000
+"495900",25,"EN",-20.40444,57.42667,"Tropical","Terrestrial","Habitat loss",1983,12
+"495920",5,"EN",-20.3,57.58333,"Tropical","Terrestrial","Pollution",1983,4
+"495921",4,"EN",-4.58333,55.93333,"Tropical","Terrestrial","Habitat loss",1983,21
+"510145",367,"LC",40.16667,-0.16667,"Temperate","Terrestrial","Exploitation",1984,43
+"510146",366,"LC",38,-1.5,"Temperate","Terrestrial","Exploitation",1984,37
+"510147",365,"LC",41.25,1.58333,"Temperate","Terrestrial","Exploitation",1984,14
+"510148",364,"LC",42.75,-1.66667,"Temperate","Terrestrial","Exploitation",1984,4.5
+"510150",362,"LC",43.83333,6.25,"Temperate","Terrestrial","Exploitation",1984,15
+"510151",361,"CR",37.02944,37.99028,"Temperate","Terrestrial","Pollution",1984,10
+"510152",360,"CR",30.08333,-9.66667,"Temperate","Terrestrial","Habitat loss",1984,34
+"510163",349,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat loss",1984,1500000
+"510164",348,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat loss",1984,3650000
+"510202",310,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat degradation/change",1984,1220000
+"510222",290,"LC",78,20,"Temperate","Terrestrial","Exploitation",1984,3600
+"510223",288,"LC",54.25,13.58333,"Temperate","Terrestrial","Exploitation",1984,200
+"510230",281,"LC",51.5,10.5,"Temperate","Terrestrial","Habitat degradation/change",1984,62500
+"510235",276,"LC",51.5,10.5,"Temperate","Terrestrial","Exploitation",1984,37500
+"510236",275,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat degradation/change",1984,4200000
+"510238",273,"LC",56,10,"Temperate","Terrestrial","Habitat degradation/change",1984,1180000
+"510239",272,"LC",52.5,5.75,"Temperate","Terrestrial","Habitat degradation/change",1984,2e+05
+"510255",256,"LC",18.33333,-65.71889,"Tropical","Terrestrial","Habitat loss",1984,50
+"510257",254,"CR",18.23278,-66.4575,"Tropical","Terrestrial","Habitat loss",1984,29
+"510281",230,"NT",21.33306,70.79167,"Tropical","Terrestrial","Habitat degradation/change",1984,201
+"510294",217,"EN",26.63333,93.38333,"Tropical","Terrestrial","Habitat loss",1984,523
+"510297",214,"VU",26.63333,93.38333,"Tropical","Terrestrial","Invasive spp/genes",1984,358
+"510298",213,"LC",20,77,"Tropical","Terrestrial","Habitat degradation/change",1984,554
+"510300",211,"VU",26.63333,93.38333,"Tropical","Terrestrial","Habitat loss",1984,756
+"510302",209,"EN",26.63333,93.38333,"Tropical","Terrestrial","Invasive spp/genes",1984,677
+"510304",207,"VU",26.63333,93.38333,"Tropical","Terrestrial","Habitat loss",1984,30
+"510312",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1984,12274
+"510313",198,"CR",19.59278,-155.51972,"Tropical","Terrestrial","Invasive spp/genes",1984,1150
+"510319",192,"CR",-25,135,"Tropical","Terrestrial","Invasive spp/genes",1984,20
+"510321",190,"CR",-37,144,"Tropical","Terrestrial","Habitat loss",1984,85
+"510341",170,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1984,3100
+"510342",169,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1984,0.86
+"510346",165,"EN",7.16667,39.75,"Tropical","Terrestrial","Habitat degradation/change",1984,0.072
+"510348",163,"EN",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1984,26
+"510369",142,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1984,900
+"510371",140,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1984,4000
+"510372",139,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1984,0.88
+"510373",138,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1984,16.8
+"510380",131,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1984,5200
+"510389",122,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1984,31000
+"510394",117,"EN",-3.16667,35.58333,"Tropical","Terrestrial","Habitat loss",1984,28
+"510400",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1984,8300
+"510403",108,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1984,55700
+"510406",105,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1984,900
+"510409",102,"LC",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1984,350
+"510412",99,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1984,1100
+"510428",83,"VU",-30,26,"Tropical","Terrestrial","Invasive spp/genes",1984,420
+"510464",47,"NT",4.15972,25.49889,"Tropical","Terrestrial","Exploitation",1984,15
+"510466",45,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1984,5500
+"510467",44,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1984,900
+"510469",42,"EN",7,39.75,"Tropical","Terrestrial","Habitat degradation/change",1984,0.35
+"510473",38,"LC",7.2,38.6,"Tropical","Terrestrial","Habitat degradation/change",1984,1700
+"510477",34,"LC",9,-3.5,"Tropical","Terrestrial","Exploitation",1984,18300
+"510479",32,"LC",-3.5,35.75,"Tropical","Terrestrial","Exploitation",1984,150
+"510482",29,"VU",-10.91417,23.99833,"Tropical","Terrestrial","Disease",1984,25000
+"510506",5,"EN",-20.3,57.58333,"Tropical","Terrestrial","Pollution",1984,7
+"510507",4,"EN",-4.58333,55.93333,"Tropical","Terrestrial","Habitat loss",1984,25
+"524692",406,"VU",53.5,12,"Temperate","Terrestrial","Habitat degradation/change",1985,350
+"524731",367,"LC",40.16667,-0.16667,"Temperate","Terrestrial","Exploitation",1985,43
+"524732",366,"LC",38,-1.5,"Temperate","Terrestrial","Exploitation",1985,37
+"524733",365,"LC",41.25,1.58333,"Temperate","Terrestrial","Exploitation",1985,13
+"524734",364,"LC",42.75,-1.66667,"Temperate","Terrestrial","Exploitation",1985,4.5
+"524736",362,"LC",43.83333,6.25,"Temperate","Terrestrial","Exploitation",1985,15
+"524737",361,"CR",37.02944,37.99028,"Temperate","Terrestrial","Pollution",1985,8
+"524738",360,"CR",30.08333,-9.66667,"Temperate","Terrestrial","Habitat loss",1985,46
+"524749",349,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat loss",1985,1750000
+"524750",348,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat loss",1985,3600000
+"524788",310,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat degradation/change",1985,1080000
+"524808",290,"LC",78,20,"Temperate","Terrestrial","Exploitation",1985,4600
+"524809",288,"LC",54.25,13.58333,"Temperate","Terrestrial","Exploitation",1985,300
+"524816",281,"LC",51.5,10.5,"Temperate","Terrestrial","Habitat degradation/change",1985,42500
+"524821",276,"LC",51.5,10.5,"Temperate","Terrestrial","Exploitation",1985,87500
+"524822",275,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat degradation/change",1985,3e+06
+"524824",273,"LC",56,10,"Temperate","Terrestrial","Habitat degradation/change",1985,1050000
+"524825",272,"LC",52.5,5.75,"Temperate","Terrestrial","Habitat degradation/change",1985,1e+05
+"524843",254,"CR",18.23278,-66.4575,"Tropical","Terrestrial","Habitat loss",1985,25
+"524853",244,"EN",18.28833,-65.64,"Tropical","Terrestrial","Invasive spp/genes",1985,2
+"524868",229,"VU",21.33306,70.79167,"Tropical","Terrestrial","Habitat loss",1985,239
+"524869",228,"VU",21.33306,70.79167,"Tropical","Terrestrial","Habitat loss",1985,191
+"524894",203,"CR",27.15889,77.50861,"Tropical","Terrestrial","Pollution",1985,244
+"524898",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1985,10050
+"524899",198,"CR",19.59278,-155.51972,"Tropical","Terrestrial","Invasive spp/genes",1985,800
+"524907",190,"CR",-37,144,"Tropical","Terrestrial","Habitat loss",1985,86
+"524928",169,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1985,0.93
+"524931",166,"EN",6.75,39.75,"Tropical","Terrestrial","Habitat loss",1985,1375
+"524934",163,"EN",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1985,25.5
+"524937",160,"LC",-13.5,34,"Tropical","Terrestrial","Habitat degradation/change",1985,2000
+"524942",155,"LC",-1.5,35,"Tropical","Terrestrial","Habitat loss",1985,1796
+"524945",152,"LC",-23.83333,31.5,"Tropical","Terrestrial","Disease",1985,27500
+"524958",139,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1985,0.5
+"524959",138,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1985,13.8
+"524965",132,"LC",-1.91667,40.11667,"Tropical","Terrestrial","Habitat loss",1985,250
+"524978",119,"EN",-23.83333,31.5,"Tropical","Terrestrial","Habitat degradation/change",1985,400
+"524980",117,"EN",-3.16667,35.58333,"Tropical","Terrestrial","Habitat loss",1985,28
+"524983",114,"VU",-1.5,35,"Tropical","Terrestrial","Exploitation",1985,382
+"524986",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1985,6800
+"524995",102,"LC",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1985,370
+"525014",83,"VU",-30,26,"Tropical","Terrestrial","Invasive spp/genes",1985,400
+"525020",77,"NT",0.33333,32.58333,"Tropical","Terrestrial","Habitat loss",1985,142
+"525026",71,"LC",-1.5,35,"Tropical","Terrestrial","Habitat loss",1985,23140
+"525027",70,"LC",7,21,"Tropical","Terrestrial","Exploitation",1985,5400
+"525037",60,"LC",-2.33333,34.83333,"Tropical","Terrestrial","Disease",1985,1250000
+"525046",51,"EN",-1.89972,40.11833,"Tropical","Terrestrial","Habitat loss",1985,1000
+"525060",37,"LC",9.08333,40,"Tropical","Terrestrial","Habitat degradation/change",1985,30
+"525091",6,"CR",11.76667,42.65806,"Tropical","Terrestrial","Habitat loss",1985,1500
+"525092",5,"EN",-20.3,57.58333,"Tropical","Terrestrial","Pollution",1985,7
+"525093",4,"EN",-4.58333,55.93333,"Tropical","Terrestrial","Habitat loss",1985,26
+"539317",367,"LC",40.16667,-0.16667,"Temperate","Terrestrial","Exploitation",1986,43
+"539318",366,"LC",38,-1.5,"Temperate","Terrestrial","Exploitation",1986,35
+"539319",365,"LC",41.25,1.58333,"Temperate","Terrestrial","Exploitation",1986,12
+"539320",364,"LC",42.75,-1.66667,"Temperate","Terrestrial","Exploitation",1986,4
+"539322",362,"LC",43.83333,6.25,"Temperate","Terrestrial","Exploitation",1986,15
+"539323",361,"CR",37.02944,37.99028,"Temperate","Terrestrial","Pollution",1986,10
+"539324",360,"CR",30.08333,-9.66667,"Temperate","Terrestrial","Habitat loss",1986,38
+"539335",349,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat loss",1986,1700000
+"539336",348,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat loss",1986,3600000
+"539374",310,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat degradation/change",1986,980000
+"539394",290,"LC",78,20,"Temperate","Terrestrial","Exploitation",1986,3800
+"539395",288,"LC",54.25,13.58333,"Temperate","Terrestrial","Exploitation",1986,287
+"539396",287,"LC",43.75,20.75,"Temperate","Terrestrial","Exploitation",1986,33
+"539402",281,"LC",51.5,10.5,"Temperate","Terrestrial","Habitat degradation/change",1986,62500
+"539407",276,"LC",51.5,10.5,"Temperate","Terrestrial","Exploitation",1986,37500
+"539408",275,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat degradation/change",1986,3500000
+"539410",273,"LC",56,10,"Temperate","Terrestrial","Habitat degradation/change",1986,1100000
+"539411",272,"LC",52.5,5.75,"Temperate","Terrestrial","Habitat degradation/change",1986,1e+05
+"539429",254,"CR",18.23278,-66.4575,"Tropical","Terrestrial","Habitat loss",1986,29
+"539436",247,"EN",18.08722,-67.97194,"Tropical","Terrestrial","Invasive spp/genes",1986,338
+"539439",244,"EN",18.28833,-65.64,"Tropical","Terrestrial","Invasive spp/genes",1986,2
+"539452",231,"EN",26.35722,117.19778,"Tropical","Terrestrial","Exploitation",1986,65
+"539484",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1986,9515
+"539485",198,"CR",19.59278,-155.51972,"Tropical","Terrestrial","Invasive spp/genes",1986,1150
+"539493",190,"CR",-37,144,"Tropical","Terrestrial","Habitat loss",1986,79
+"539514",169,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1986,0.88
+"539518",165,"EN",7.16667,39.75,"Tropical","Terrestrial","Habitat degradation/change",1986,0
+"539519",164,"EN",7.16667,39.75,"Tropical","Terrestrial","Habitat degradation/change",1986,2.1
+"539520",163,"EN",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1986,25.5
+"539521",162,"EN",7.1,39.78333,"Tropical","Terrestrial","Habitat degradation/change",1986,2250
+"539528",155,"LC",-1.5,35,"Tropical","Terrestrial","Habitat loss",1986,194
+"539544",139,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1986,0.56
+"539545",138,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1986,12.2
+"539565",118,"EN",-19,29,"Tropical","Terrestrial","Exploitation",1986,350
+"539566",117,"EN",-3.16667,35.58333,"Tropical","Terrestrial","Habitat loss",1986,29
+"539569",114,"VU",-1.5,35,"Tropical","Terrestrial","Exploitation",1986,493
+"539572",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1986,7400
+"539580",103,"LC",-9,37.5,"Tropical","Terrestrial","Exploitation",1986,4400
+"539581",102,"LC",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1986,450
+"539590",93,"EN",-1.16667,29.58333,"Tropical","Terrestrial","Habitat loss",1986,293
+"539612",71,"LC",-1.5,35,"Tropical","Terrestrial","Habitat loss",1986,17062
+"539625",58,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1986,12000
+"539641",42,"EN",7,39.75,"Tropical","Terrestrial","Habitat degradation/change",1986,0.11
+"539642",41,"LC",-2.33333,34.83333,"Tropical","Terrestrial","Exploitation",1986,50
+"539658",25,"EN",-20.40444,57.42667,"Tropical","Terrestrial","Habitat loss",1986,10
+"539678",5,"EN",-20.3,57.58333,"Tropical","Terrestrial","Pollution",1986,7
+"553903",367,"LC",40.16667,-0.16667,"Temperate","Terrestrial","Exploitation",1987,40
+"553904",366,"LC",38,-1.5,"Temperate","Terrestrial","Exploitation",1987,32
+"553905",365,"LC",41.25,1.58333,"Temperate","Terrestrial","Exploitation",1987,12
+"553906",364,"LC",42.75,-1.66667,"Temperate","Terrestrial","Exploitation",1987,4
+"553908",362,"LC",43.83333,6.25,"Temperate","Terrestrial","Exploitation",1987,15
+"553909",361,"CR",37.02944,37.99028,"Temperate","Terrestrial","Pollution",1987,14
+"553910",360,"CR",30.08333,-9.66667,"Temperate","Terrestrial","Habitat loss",1987,38
+"553921",349,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat loss",1987,1800000
+"553922",348,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat loss",1987,3500000
+"553960",310,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat degradation/change",1987,9e+05
+"553980",290,"LC",78,20,"Temperate","Terrestrial","Exploitation",1987,4500
+"553988",281,"LC",51.5,10.5,"Temperate","Terrestrial","Habitat degradation/change",1987,112500
+"553993",276,"LC",51.5,10.5,"Temperate","Terrestrial","Exploitation",1987,162500
+"553994",275,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat degradation/change",1987,2800000
+"553996",273,"LC",56,10,"Temperate","Terrestrial","Habitat degradation/change",1987,1050000
+"553997",272,"LC",52.5,5.75,"Temperate","Terrestrial","Habitat degradation/change",1987,150000
+"554015",254,"CR",18.23278,-66.4575,"Tropical","Terrestrial","Habitat loss",1987,29
+"554066",203,"CR",27.15889,77.50861,"Tropical","Terrestrial","Pollution",1987,353
+"554070",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1987,10883
+"554071",198,"CR",19.59278,-155.51972,"Tropical","Terrestrial","Invasive spp/genes",1987,1980
+"554079",190,"CR",-37,144,"Tropical","Terrestrial","Habitat loss",1987,76
+"554100",169,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1987,0.93
+"554104",165,"EN",7.16667,39.75,"Tropical","Terrestrial","Habitat degradation/change",1987,0.014
+"554105",164,"EN",7.16667,39.75,"Tropical","Terrestrial","Habitat degradation/change",1987,4
+"554106",163,"EN",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1987,24
+"554116",153,"LC",13,-13,"Tropical","Terrestrial","Exploitation",1987,230
+"554130",139,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1987,0.48
+"554131",138,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1987,14
+"554152",117,"EN",-3.16667,35.58333,"Tropical","Terrestrial","Habitat loss",1987,16
+"554158",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1987,6900
+"554167",102,"LC",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1987,250
+"554195",74,"CR",1,38,"Tropical","Terrestrial","Exploitation",1987,511
+"554211",58,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1987,7500
+"554212",57,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1987,9000
+"554227",42,"EN",7,39.75,"Tropical","Terrestrial","Habitat degradation/change",1987,0.145
+"554264",5,"EN",-20.3,57.58333,"Tropical","Terrestrial","Pollution",1987,9
+"554265",4,"EN",-4.58333,55.93333,"Tropical","Terrestrial","Habitat loss",1987,23
+"554267",2,"VU",-4.33333,55.66667,"Tropical","Terrestrial","Invasive spp/genes",1987,430
+"568389",467,"LC",53.87083,9.00389,"Temperate","Freshwater","Habitat degradation/change",1988,62
+"568390",466,"LC",53.87083,9.00389,"Temperate","Freshwater","Habitat degradation/change",1988,37
+"568489",367,"LC",40.16667,-0.16667,"Temperate","Terrestrial","Exploitation",1988,37.5
+"568490",366,"LC",38,-1.5,"Temperate","Terrestrial","Exploitation",1988,28
+"568491",365,"LC",41.25,1.58333,"Temperate","Terrestrial","Exploitation",1988,11.5
+"568492",364,"LC",42.75,-1.66667,"Temperate","Terrestrial","Exploitation",1988,3.5
+"568494",362,"LC",43.83333,6.25,"Temperate","Terrestrial","Exploitation",1988,14
+"568495",361,"CR",37.02944,37.99028,"Temperate","Terrestrial","Pollution",1988,8
+"568496",360,"CR",30.08333,-9.66667,"Temperate","Terrestrial","Habitat loss",1988,50
+"568507",349,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat loss",1988,1650000
+"568508",348,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat loss",1988,3400000
+"568546",310,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat degradation/change",1988,1075000
+"568562",294,"LC",53.87083,9.00389,"Temperate","Terrestrial","Habitat degradation/change",1988,32
+"568566",290,"LC",78,20,"Temperate","Terrestrial","Exploitation",1988,5600
+"568567",288,"LC",54.25,13.58333,"Temperate","Terrestrial","Exploitation",1988,300
+"568574",281,"LC",51.5,10.5,"Temperate","Terrestrial","Habitat degradation/change",1988,112500
+"568579",276,"LC",51.5,10.5,"Temperate","Terrestrial","Exploitation",1988,212500
+"568580",275,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat degradation/change",1988,2500000
+"568582",273,"LC",56,10,"Temperate","Terrestrial","Habitat degradation/change",1988,1100000
+"568583",272,"LC",52.5,5.75,"Temperate","Terrestrial","Habitat degradation/change",1988,1e+05
+"568598",257,"EN",-23,-60,"Tropical","Terrestrial","Exploitation",1988,0
+"568601",254,"CR",18.23278,-66.4575,"Tropical","Terrestrial","Habitat loss",1988,28
+"568628",227,"VU",30.00556,70.01472,"Temperate","Terrestrial","Exploitation",1988,300
+"568630",225,"NT",36.58694,75.39972,"Temperate","Terrestrial","Exploitation",1988,20
+"568656",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1988,5201
+"568657",198,"CR",19.59278,-155.51972,"Tropical","Terrestrial","Invasive spp/genes",1988,2700
+"568665",190,"CR",-37,144,"Tropical","Terrestrial","Habitat loss",1988,70
+"568667",188,"EN",-42,147,"Tropical","Terrestrial","Habitat loss",1988,1320
+"568686",169,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1988,0.52
+"568690",165,"EN",7.16667,39.75,"Tropical","Terrestrial","Habitat degradation/change",1988,0.02
+"568691",164,"EN",7.16667,39.75,"Tropical","Terrestrial","Habitat degradation/change",1988,0.9
+"568692",163,"EN",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1988,19.5
+"568716",139,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1988,0.37
+"568717",138,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1988,12.2
+"568720",135,"CR",-19.7,63.41667,"Tropical","Terrestrial","Habitat loss",1988,412
+"568728",127,"VU",-3.16667,35.58333,"Tropical","Terrestrial","Disease",1988,100
+"568732",123,"VU",-0.25,30.18639,"Tropical","Terrestrial","Exploitation",1988,32
+"568738",117,"EN",-3.16667,35.58333,"Tropical","Terrestrial","Habitat loss",1988,22
+"568744",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1988,7200
+"568752",103,"LC",-9,37.5,"Tropical","Terrestrial","Exploitation",1988,7500
+"568753",102,"LC",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1988,140
+"568767",88,"LC",16,8,"Tropical","Terrestrial","Exploitation",1988,100
+"568774",81,"EN",1,38,"Tropical","Terrestrial","Invasive spp/genes",1988,4300
+"568797",58,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1988,8200
+"568798",57,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1988,6250
+"568813",42,"EN",7,39.75,"Tropical","Terrestrial","Habitat degradation/change",1988,0.155
+"568850",5,"EN",-20.3,57.58333,"Tropical","Terrestrial","Pollution",1988,8
+"568851",4,"EN",-4.58333,55.93333,"Tropical","Terrestrial","Habitat loss",1988,20
+"568852",3,"EN",-4.58333,55.66667,"Tropical","Terrestrial","Habitat loss",1988,17
+"582975",467,"LC",53.87083,9.00389,"Temperate","Freshwater","Habitat degradation/change",1989,62
+"582976",466,"LC",53.87083,9.00389,"Temperate","Freshwater","Habitat degradation/change",1989,87
+"583075",367,"LC",40.16667,-0.16667,"Temperate","Terrestrial","Exploitation",1989,36
+"583076",366,"LC",38,-1.5,"Temperate","Terrestrial","Exploitation",1989,26
+"583077",365,"LC",41.25,1.58333,"Temperate","Terrestrial","Exploitation",1989,11
+"583078",364,"LC",42.75,-1.66667,"Temperate","Terrestrial","Exploitation",1989,3.5
+"583079",363,"LC",42.33333,-3.66667,"Temperate","Terrestrial","Exploitation",1989,15
+"583080",362,"LC",43.83333,6.25,"Temperate","Terrestrial","Exploitation",1989,14
+"583082",360,"CR",30.08333,-9.66667,"Temperate","Terrestrial","Habitat loss",1989,48
+"583093",349,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat loss",1989,1400000
+"583094",348,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat loss",1989,3200000
+"583104",338,"LC",57,25,"Temperate","Terrestrial","Habitat loss",1989,0.67
+"583132",310,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat degradation/change",1989,1200000
+"583148",294,"LC",53.87083,9.00389,"Temperate","Terrestrial","Habitat degradation/change",1989,71
+"583151",291,"LC",78,20,"Temperate","Terrestrial","Disease",1989,4500
+"583152",290,"LC",78,20,"Temperate","Terrestrial","Exploitation",1989,4400
+"583153",288,"LC",54.25,13.58333,"Temperate","Terrestrial","Exploitation",1989,287
+"583160",281,"LC",51.5,10.5,"Temperate","Terrestrial","Habitat degradation/change",1989,175000
+"583165",276,"LC",51.5,10.5,"Temperate","Terrestrial","Exploitation",1989,237500
+"583166",275,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat degradation/change",1989,2600000
+"583168",273,"LC",56,10,"Temperate","Terrestrial","Habitat degradation/change",1989,1180000
+"583169",272,"LC",52.5,5.75,"Temperate","Terrestrial","Habitat degradation/change",1989,1e+05
+"583206",235,"CR",11.5,106.66667,"Tropical","Terrestrial","Habitat loss",1989,12.5
+"583242",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1989,6900
+"583243",198,"CR",19.59278,-155.51972,"Tropical","Terrestrial","Invasive spp/genes",1989,1800
+"583249",192,"CR",-25,135,"Tropical","Terrestrial","Invasive spp/genes",1989,62
+"583251",190,"CR",-37,144,"Tropical","Terrestrial","Habitat loss",1989,108
+"583261",180,"NE",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1989,35.92
+"583262",179,"NE",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1989,42.62
+"583263",178,"EN",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1989,2.82
+"583264",177,"VU",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1989,210
+"583265",176,"VU",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1989,39.48
+"583266",175,"EN",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1989,1.41
+"583272",169,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1989,0.33
+"583276",165,"EN",7.16667,39.75,"Tropical","Terrestrial","Habitat degradation/change",1989,0.02
+"583277",164,"EN",7.16667,39.75,"Tropical","Terrestrial","Habitat degradation/change",1989,2.1
+"583278",163,"EN",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1989,20
+"583286",155,"LC",-1.5,35,"Tropical","Terrestrial","Habitat loss",1989,1023
+"583302",139,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1989,0.37
+"583303",138,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1989,12.4
+"583314",127,"VU",-3.16667,35.58333,"Tropical","Terrestrial","Disease",1989,80
+"583324",117,"EN",-3.16667,35.58333,"Tropical","Terrestrial","Habitat loss",1989,18
+"583327",114,"VU",-1.5,35,"Tropical","Terrestrial","Exploitation",1989,1080
+"583330",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1989,7300
+"583339",102,"LC",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1989,200
+"583348",93,"EN",-1.16667,29.58333,"Tropical","Terrestrial","Habitat loss",1989,324
+"583359",82,"VU",-22,17,"Tropical","Terrestrial","Exploitation",1989,7300
+"583370",71,"LC",-1.5,35,"Tropical","Terrestrial","Habitat loss",1989,14660
+"583375",66,"CR",1,38,"Tropical","Terrestrial","Disease",1989,1800
+"583383",58,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1989,9200
+"583384",57,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1989,7750
+"583398",43,"EN",7,39.75,"Tropical","Terrestrial","Habitat degradation/change",1989,1.08
+"583399",42,"EN",7,39.75,"Tropical","Terrestrial","Habitat degradation/change",1989,0.12
+"583436",5,"EN",-20.3,57.58333,"Tropical","Terrestrial","Pollution",1989,9
+"583437",4,"EN",-4.58333,55.93333,"Tropical","Terrestrial","Habitat loss",1989,23
+"597532",500,"LC",59,26,"Temperate","Terrestrial","Exploitation",1990,12200
+"597561",467,"LC",53.87083,9.00389,"Temperate","Freshwater","Habitat degradation/change",1990,62
+"597562",466,"LC",53.87083,9.00389,"Temperate","Freshwater","Habitat degradation/change",1990,62
+"597622",406,"VU",53.5,12,"Temperate","Terrestrial","Habitat degradation/change",1990,200
+"597661",367,"LC",40.16667,-0.16667,"Temperate","Terrestrial","Exploitation",1990,36
+"597662",366,"LC",38,-1.5,"Temperate","Terrestrial","Exploitation",1990,22
+"597663",365,"LC",41.25,1.58333,"Temperate","Terrestrial","Exploitation",1990,11
+"597664",364,"LC",42.75,-1.66667,"Temperate","Terrestrial","Exploitation",1990,3.5
+"597666",362,"LC",43.83333,6.25,"Temperate","Terrestrial","Exploitation",1990,14
+"597668",360,"CR",30.08333,-9.66667,"Temperate","Terrestrial","Habitat loss",1990,49
+"597679",349,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat loss",1990,1550000
+"597680",348,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat loss",1990,3e+06
+"597690",338,"LC",57,25,"Temperate","Terrestrial","Habitat loss",1990,1.1
+"597718",310,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat degradation/change",1990,1300000
+"597734",294,"LC",53.87083,9.00389,"Temperate","Terrestrial","Habitat degradation/change",1990,78
+"597738",290,"LC",78,20,"Temperate","Terrestrial","Exploitation",1990,4400
+"597739",288,"LC",54.25,13.58333,"Temperate","Terrestrial","Exploitation",1990,212
+"597746",281,"LC",51.5,10.5,"Temperate","Terrestrial","Habitat degradation/change",1990,187500
+"597751",276,"LC",51.5,10.5,"Temperate","Terrestrial","Exploitation",1990,250000
+"597752",275,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat degradation/change",1990,2700000
+"597754",273,"LC",56,10,"Temperate","Terrestrial","Habitat degradation/change",1990,1200000
+"597755",272,"LC",52.5,5.75,"Temperate","Terrestrial","Habitat degradation/change",1990,1e+05
+"597773",254,"CR",18.23278,-66.4575,"Tropical","Terrestrial","Habitat loss",1990,24
+"597774",253,"VU",13.905,-60.97028,"Tropical","Terrestrial","Habitat loss",1990,325
+"597797",230,"NT",21.33306,70.79167,"Tropical","Terrestrial","Habitat degradation/change",1990,212
+"597798",229,"VU",21.33306,70.79167,"Tropical","Terrestrial","Habitat loss",1990,284
+"597799",228,"VU",21.33306,70.79167,"Tropical","Terrestrial","Habitat loss",1990,221
+"597827",200,"EN",-8.86667,-140.1,"Tropical","Terrestrial","Invasive spp/genes",1990,0
+"597828",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1990,12800
+"597829",198,"CR",19.59278,-155.51972,"Tropical","Terrestrial","Invasive spp/genes",1990,3300
+"597837",190,"CR",-37,144,"Tropical","Terrestrial","Habitat loss",1990,67
+"597841",186,"EN",-38.48333,175.08333,"Tropical","Terrestrial","Habitat loss",1990,53
+"597842",185,"NT",-40.86667,174.9,"Tropical","Terrestrial","Invasive spp/genes",1990,1065
+"597843",184,"VU",-41.33333,172.33333,"Tropical","Terrestrial","Invasive spp/genes",1990,15000
+"597844",183,"VU",-38.68333,176.08333,"Tropical","Terrestrial","Invasive spp/genes",1990,51000
+"597845",182,"VU",-45.33333,167.85,"Tropical","Terrestrial","Invasive spp/genes",1990,10000
+"597846",181,"VU",-47,168,"Tropical","Terrestrial","Invasive spp/genes",1990,20000
+"597858",169,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1990,0.46
+"597861",166,"EN",6.75,39.75,"Tropical","Terrestrial","Habitat loss",1990,2000
+"597862",165,"EN",7.16667,39.75,"Tropical","Terrestrial","Habitat degradation/change",1990,0
+"597863",164,"EN",7.16667,39.75,"Tropical","Terrestrial","Habitat degradation/change",1990,3.4
+"597864",163,"EN",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1990,18.5
+"597872",155,"LC",-1.5,35,"Tropical","Terrestrial","Habitat loss",1990,1272
+"597888",139,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1990,0.24
+"597889",138,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1990,14.4
+"597892",135,"CR",-19.7,63.41667,"Tropical","Terrestrial","Habitat loss",1990,650
+"597908",119,"EN",-23.83333,31.5,"Tropical","Terrestrial","Habitat degradation/change",1990,350
+"597910",117,"EN",-3.16667,35.58333,"Tropical","Terrestrial","Habitat loss",1990,31
+"597913",114,"VU",-1.5,35,"Tropical","Terrestrial","Exploitation",1990,1151
+"597916",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1990,7200
+"597925",102,"LC",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1990,140
+"597931",96,"EN",-2.301579,28.696392,"Tropical","Terrestrial","Habitat degradation/change",1990,271
+"597936",91,"LC",-2.33333,34.83333,"Tropical","Terrestrial","Exploitation",1990,8830
+"597944",83,"VU",-30,26,"Tropical","Terrestrial","Invasive spp/genes",1990,560
+"597956",71,"LC",-1.5,35,"Tropical","Terrestrial","Habitat loss",1990,9742
+"597969",58,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1990,7800
+"597970",57,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1990,11500
+"597984",43,"EN",7,39.75,"Tropical","Terrestrial","Habitat degradation/change",1990,0.52
+"597985",42,"EN",7,39.75,"Tropical","Terrestrial","Habitat degradation/change",1990,0.07
+"597991",36,"LC",9.75,10.5,"Tropical","Terrestrial","Exploitation",1990,200
+"598007",20,"VU",-26.5,31.5,"Tropical","Terrestrial","Habitat loss",1990,0
+"598020",7,"VU",-22,24,"Tropical","Terrestrial","Habitat loss",1990,655
+"598022",5,"EN",-20.3,57.58333,"Tropical","Terrestrial","Pollution",1990,13
+"598023",4,"EN",-4.58333,55.93333,"Tropical","Terrestrial","Habitat loss",1990,22
+"598024",3,"EN",-4.58333,55.66667,"Tropical","Terrestrial","Habitat loss",1990,21
+"612147",467,"LC",53.87083,9.00389,"Temperate","Freshwater","Habitat degradation/change",1991,62
+"612148",466,"LC",53.87083,9.00389,"Temperate","Freshwater","Habitat degradation/change",1991,62
+"612207",407,"VU",47,20,"Temperate","Terrestrial","Habitat degradation/change",1991,875
+"612247",367,"LC",40.16667,-0.16667,"Temperate","Terrestrial","Exploitation",1991,35
+"612248",366,"LC",38,-1.5,"Temperate","Terrestrial","Exploitation",1991,21
+"612249",365,"LC",41.25,1.58333,"Temperate","Terrestrial","Exploitation",1991,11
+"612250",364,"LC",42.75,-1.66667,"Temperate","Terrestrial","Exploitation",1991,3
+"612252",362,"LC",43.83333,6.25,"Temperate","Terrestrial","Exploitation",1991,14
+"612254",360,"CR",30.08333,-9.66667,"Temperate","Terrestrial","Habitat loss",1991,38
+"612265",349,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat loss",1991,1700000
+"612266",348,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat loss",1991,2600000
+"612276",338,"LC",57,25,"Temperate","Terrestrial","Habitat loss",1991,0.98
+"612280",334,"LC",49.22083,12.61278,"Temperate","Terrestrial","Habitat loss",1991,2
+"612281",333,"LC",53.2,8.783,"Temperate","Terrestrial","Habitat loss",1991,0
+"612282",332,"LC",47.667,11.217,"Temperate","Terrestrial","Habitat loss",1991,42
+"612284",330,"LC",50.46667,10,"Temperate","Terrestrial","Habitat loss",1991,1
+"612287",327,"LC",53.467,7.35,"Temperate","Terrestrial","Habitat loss",1991,0
+"612288",326,"LC",53.11667,9.05,"Temperate","Terrestrial","Habitat loss",1991,2
+"612289",325,"LC",53.117,8.95,"Temperate","Terrestrial","Habitat loss",1991,2
+"612304",310,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat degradation/change",1991,1290000
+"612305",309,"LC",64.41667,23.25,"Temperate","Freshwater","Invasive spp/genes",1991,170
+"612320",294,"LC",53.87083,9.00389,"Temperate","Terrestrial","Habitat degradation/change",1991,50
+"612324",290,"LC",78,20,"Temperate","Terrestrial","Exploitation",1991,5150
+"612325",288,"LC",54.25,13.58333,"Temperate","Terrestrial","Exploitation",1991,137
+"612332",281,"LC",51.5,10.5,"Temperate","Terrestrial","Habitat degradation/change",1991,237500
+"612337",276,"LC",51.5,10.5,"Temperate","Terrestrial","Exploitation",1991,312500
+"612338",275,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat degradation/change",1991,2600000
+"612340",273,"LC",56,10,"Temperate","Terrestrial","Habitat degradation/change",1991,1180000
+"612341",272,"LC",52.5,5.75,"Temperate","Terrestrial","Habitat degradation/change",1991,50000
+"612349",264,"OA",18.72806,-64.32111,"Tropical","Terrestrial","Invasive spp/genes",1991,0.36
+"612359",254,"CR",18.23278,-66.4575,"Tropical","Terrestrial","Habitat loss",1991,24
+"612367",246,"EN",18.01528,-66.25417,"Tropical","Terrestrial","Invasive spp/genes",1991,20
+"612378",235,"CR",11.5,106.66667,"Tropical","Terrestrial","Habitat loss",1991,10
+"612388",225,"NT",36.58694,75.39972,"Temperate","Terrestrial","Exploitation",1991,45
+"612414",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1991,15705
+"612415",198,"CR",19.59278,-155.51972,"Tropical","Terrestrial","Invasive spp/genes",1991,1800
+"612423",190,"CR",-37,144,"Tropical","Terrestrial","Habitat loss",1991,32
+"612427",186,"EN",-38.48333,175.08333,"Tropical","Terrestrial","Habitat loss",1991,50
+"612444",169,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1991,0.35
+"612448",165,"EN",7.16667,39.75,"Tropical","Terrestrial","Habitat degradation/change",1991,0.004
+"612449",164,"EN",7.16667,39.75,"Tropical","Terrestrial","Habitat degradation/change",1991,2.5
+"612450",163,"EN",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1991,9
+"612454",159,"LC",-3,38.66667,"Tropical","Terrestrial","Disease",1991,9960
+"612461",152,"LC",-23.83333,31.5,"Tropical","Terrestrial","Disease",1991,15000
+"612469",144,"LC",-3,38.66667,"Tropical","Terrestrial","Disease",1991,34590
+"612474",139,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1991,0.27
+"612475",138,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1991,122
+"612478",135,"CR",-19.7,63.41667,"Tropical","Terrestrial","Habitat loss",1991,350
+"612496",117,"EN",-3.16667,35.58333,"Tropical","Terrestrial","Habitat loss",1991,31
+"612502",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1991,7250
+"612511",102,"LC",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1991,135
+"612555",58,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1991,7500
+"612556",57,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1991,9750
+"612570",43,"EN",7,39.75,"Tropical","Terrestrial","Habitat degradation/change",1991,0.44
+"612571",42,"EN",7,39.75,"Tropical","Terrestrial","Habitat degradation/change",1991,0.075
+"612584",29,"VU",-10.91417,23.99833,"Tropical","Terrestrial","Disease",1991,10500
+"612608",5,"EN",-20.3,57.58333,"Tropical","Terrestrial","Pollution",1991,14
+"626733",467,"LC",53.87083,9.00389,"Temperate","Freshwater","Habitat degradation/change",1992,100
+"626734",466,"LC",53.87083,9.00389,"Temperate","Freshwater","Habitat degradation/change",1992,87
+"626793",407,"VU",47,20,"Temperate","Terrestrial","Habitat degradation/change",1992,905
+"626833",367,"LC",40.16667,-0.16667,"Temperate","Terrestrial","Exploitation",1992,33
+"626834",366,"LC",38,-1.5,"Temperate","Terrestrial","Exploitation",1992,17
+"626835",365,"LC",41.25,1.58333,"Temperate","Terrestrial","Exploitation",1992,10
+"626836",364,"LC",42.75,-1.66667,"Temperate","Terrestrial","Exploitation",1992,3
+"626837",363,"LC",42.33333,-3.66667,"Temperate","Terrestrial","Exploitation",1992,13
+"626838",362,"LC",43.83333,6.25,"Temperate","Terrestrial","Exploitation",1992,14
+"626840",360,"CR",30.08333,-9.66667,"Temperate","Terrestrial","Habitat loss",1992,39
+"626851",349,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat loss",1992,1500000
+"626852",348,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat loss",1992,2650000
+"626862",338,"LC",57,25,"Temperate","Terrestrial","Habitat loss",1992,0.79
+"626866",334,"LC",49.22083,12.61278,"Temperate","Terrestrial","Habitat loss",1992,1
+"626867",333,"LC",53.2,8.783,"Temperate","Terrestrial","Habitat loss",1992,0
+"626868",332,"LC",47.667,11.217,"Temperate","Terrestrial","Habitat loss",1992,53
+"626870",330,"LC",50.46667,10,"Temperate","Terrestrial","Habitat loss",1992,11
+"626872",328,"LC",53.2,8.783,"Temperate","Terrestrial","Habitat loss",1992,4
+"626874",326,"LC",53.11667,9.05,"Temperate","Terrestrial","Habitat loss",1992,4
+"626875",325,"LC",53.117,8.95,"Temperate","Terrestrial","Habitat loss",1992,0
+"626890",310,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat degradation/change",1992,1200000
+"626906",294,"LC",53.87083,9.00389,"Temperate","Terrestrial","Habitat degradation/change",1992,71
+"626910",290,"LC",78,20,"Temperate","Terrestrial","Exploitation",1992,4200
+"626911",288,"LC",54.25,13.58333,"Temperate","Terrestrial","Exploitation",1992,300
+"626913",286,"LC",54,-4,"Temperate","Terrestrial","Habitat degradation/change",1992,422
+"626918",281,"LC",51.5,10.5,"Temperate","Terrestrial","Habitat degradation/change",1992,212500
+"626923",276,"LC",51.5,10.5,"Temperate","Terrestrial","Exploitation",1992,262500
+"626924",275,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat degradation/change",1992,3e+06
+"626926",273,"LC",56,10,"Temperate","Terrestrial","Habitat degradation/change",1992,1190000
+"626927",272,"LC",52.5,5.75,"Temperate","Terrestrial","Habitat degradation/change",1992,60000
+"626943",256,"LC",18.33333,-65.71889,"Tropical","Terrestrial","Habitat loss",1992,22
+"626945",254,"CR",18.23278,-66.4575,"Tropical","Terrestrial","Habitat loss",1992,24
+"626952",247,"EN",18.08722,-67.97194,"Tropical","Terrestrial","Invasive spp/genes",1992,310
+"626972",227,"VU",30.00556,70.01472,"Temperate","Terrestrial","Exploitation",1992,57
+"626973",226,"VU",32.83,71.62972,"Tropical","Terrestrial","Exploitation",1992,1550
+"627000",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1992,12737
+"627001",198,"CR",19.59278,-155.51972,"Tropical","Terrestrial","Invasive spp/genes",1992,700
+"627009",190,"CR",-37,144,"Tropical","Terrestrial","Habitat loss",1992,51
+"627013",186,"EN",-38.48333,175.08333,"Tropical","Terrestrial","Habitat loss",1992,51
+"627030",169,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1992,0.09
+"627034",165,"EN",7.16667,39.75,"Tropical","Terrestrial","Habitat degradation/change",1992,0
+"627036",163,"EN",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1992,3.5
+"627060",139,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1992,0.2
+"627061",138,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1992,3.2
+"627082",117,"EN",-3.16667,35.58333,"Tropical","Terrestrial","Habitat loss",1992,0
+"627088",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1992,7400
+"627097",102,"LC",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1992,85
+"627141",58,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1992,7550
+"627142",57,"LC",-3.18333,35.53333,"Tropical","Terrestrial","Habitat degradation/change",1992,11000
+"627156",43,"EN",7,39.75,"Tropical","Terrestrial","Habitat degradation/change",1992,0.1
+"627157",42,"EN",7,39.75,"Tropical","Terrestrial","Habitat degradation/change",1992,0.145
+"627174",25,"EN",-20.40444,57.42667,"Tropical","Terrestrial","Habitat loss",1992,21
+"627194",5,"EN",-20.3,57.58333,"Tropical","Terrestrial","Pollution",1992,22
+"641319",467,"LC",53.87083,9.00389,"Temperate","Freshwater","Habitat degradation/change",1993,87
+"641320",466,"LC",53.87083,9.00389,"Temperate","Freshwater","Habitat degradation/change",1993,62
+"641379",407,"VU",47,20,"Temperate","Terrestrial","Habitat degradation/change",1993,903
+"641419",367,"LC",40.16667,-0.16667,"Temperate","Terrestrial","Exploitation",1993,30
+"641420",366,"LC",38,-1.5,"Temperate","Terrestrial","Exploitation",1993,17
+"641421",365,"LC",41.25,1.58333,"Temperate","Terrestrial","Exploitation",1993,10
+"641422",364,"LC",42.75,-1.66667,"Temperate","Terrestrial","Exploitation",1993,3
+"641423",363,"LC",42.33333,-3.66667,"Temperate","Terrestrial","Exploitation",1993,12.5
+"641424",362,"LC",43.83333,6.25,"Temperate","Terrestrial","Exploitation",1993,14
+"641426",360,"CR",30.08333,-9.66667,"Temperate","Terrestrial","Habitat loss",1993,39
+"641437",349,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat loss",1993,1650000
+"641438",348,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat loss",1993,2700000
+"641448",338,"LC",57,25,"Temperate","Terrestrial","Habitat loss",1993,0.82
+"641450",336,"LC",54,-4,"Temperate","Terrestrial","Habitat loss",1993,478
+"641452",334,"LC",49.22083,12.61278,"Temperate","Terrestrial","Habitat loss",1993,6
+"641453",333,"LC",53.2,8.783,"Temperate","Terrestrial","Habitat loss",1993,0
+"641454",332,"LC",47.667,11.217,"Temperate","Terrestrial","Habitat loss",1993,46
+"641456",330,"LC",50.46667,10,"Temperate","Terrestrial","Habitat loss",1993,20
+"641457",329,"LC",53.633,9.6,"Temperate","Terrestrial","Habitat loss",1993,4
+"641460",326,"LC",53.11667,9.05,"Temperate","Terrestrial","Habitat loss",1993,0
+"641461",325,"LC",53.117,8.95,"Temperate","Terrestrial","Habitat loss",1993,8
+"641476",310,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat degradation/change",1993,1300000
+"641492",294,"LC",53.87083,9.00389,"Temperate","Terrestrial","Habitat degradation/change",1993,64
+"641496",290,"LC",78,20,"Temperate","Terrestrial","Exploitation",1993,4000
+"641497",288,"LC",54.25,13.58333,"Temperate","Terrestrial","Exploitation",1993,287
+"641504",281,"LC",51.5,10.5,"Temperate","Terrestrial","Habitat degradation/change",1993,187500
+"641509",276,"LC",51.5,10.5,"Temperate","Terrestrial","Exploitation",1993,2e+05
+"641510",275,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat degradation/change",1993,3e+06
+"641512",273,"LC",56,10,"Temperate","Terrestrial","Habitat degradation/change",1993,1250000
+"641513",272,"LC",52.5,5.75,"Temperate","Terrestrial","Habitat degradation/change",1993,50000
+"641531",254,"CR",18.23278,-66.4575,"Tropical","Terrestrial","Habitat loss",1993,34
+"641550",235,"CR",11.5,106.66667,"Tropical","Terrestrial","Habitat loss",1993,8
+"641554",231,"EN",26.35722,117.19778,"Tropical","Terrestrial","Exploitation",1993,55
+"641586",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1993,13108
+"641587",198,"CR",19.59278,-155.51972,"Tropical","Terrestrial","Invasive spp/genes",1993,2200
+"641593",192,"CR",-25,135,"Tropical","Terrestrial","Invasive spp/genes",1993,65
+"641595",190,"CR",-37,144,"Tropical","Terrestrial","Habitat loss",1993,57
+"641599",186,"EN",-38.48333,175.08333,"Tropical","Terrestrial","Habitat loss",1993,56
+"641616",169,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1993,0.07
+"641622",163,"EN",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1993,4
+"641632",153,"LC",13,-13,"Tropical","Terrestrial","Exploitation",1993,125
+"641646",139,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1993,0.13
+"641647",138,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1993,5.4
+"641674",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1993,7600
+"641702",83,"VU",-30,26,"Tropical","Terrestrial","Invasive spp/genes",1993,700
+"641709",76,"CR",-15.62583,30.42111,"Tropical","Terrestrial","Exploitation",1993,2475
+"641724",61,"LC",-34.05,20.45,"Tropical","Terrestrial","Invasive spp/genes",1993,220
+"641760",25,"EN",-20.40444,57.42667,"Tropical","Terrestrial","Habitat loss",1993,23
+"641780",5,"EN",-20.3,57.58333,"Tropical","Terrestrial","Pollution",1993,26
+"655905",467,"LC",53.87083,9.00389,"Temperate","Freshwater","Habitat degradation/change",1994,87
+"655906",466,"LC",53.87083,9.00389,"Temperate","Freshwater","Habitat degradation/change",1994,87
+"655965",407,"VU",47,20,"Temperate","Terrestrial","Habitat degradation/change",1994,1021
+"656005",367,"LC",40.16667,-0.16667,"Temperate","Terrestrial","Exploitation",1994,28
+"656006",366,"LC",38,-1.5,"Temperate","Terrestrial","Exploitation",1994,17
+"656007",365,"LC",41.25,1.58333,"Temperate","Terrestrial","Exploitation",1994,10
+"656008",364,"LC",42.75,-1.66667,"Temperate","Terrestrial","Exploitation",1994,3
+"656009",363,"LC",42.33333,-3.66667,"Temperate","Terrestrial","Exploitation",1994,12
+"656010",362,"LC",43.83333,6.25,"Temperate","Terrestrial","Exploitation",1994,14
+"656012",360,"CR",30.08333,-9.66667,"Temperate","Terrestrial","Habitat loss",1994,46
+"656023",349,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat loss",1994,2e+06
+"656024",348,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat loss",1994,2750000
+"656034",338,"LC",57,25,"Temperate","Terrestrial","Habitat loss",1994,0.67
+"656037",335,"LC",53.086,14.337,"Temperate","Terrestrial","Habitat loss",1994,169
+"656038",334,"LC",49.22083,12.61278,"Temperate","Terrestrial","Habitat loss",1994,1
+"656039",333,"LC",53.2,8.783,"Temperate","Terrestrial","Habitat loss",1994,2
+"656040",332,"LC",47.667,11.217,"Temperate","Terrestrial","Habitat loss",1994,38
+"656041",331,"LC",52.45,9.267,"Temperate","Terrestrial","Habitat loss",1994,0
+"656042",330,"LC",50.46667,10,"Temperate","Terrestrial","Habitat loss",1994,13
+"656043",329,"LC",53.633,9.6,"Temperate","Terrestrial","Habitat loss",1994,5
+"656045",327,"LC",53.467,7.35,"Temperate","Terrestrial","Habitat loss",1994,0
+"656046",326,"LC",53.11667,9.05,"Temperate","Terrestrial","Habitat loss",1994,6
+"656047",325,"LC",53.117,8.95,"Temperate","Terrestrial","Habitat loss",1994,6
+"656062",310,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat degradation/change",1994,1400000
+"656078",294,"LC",53.87083,9.00389,"Temperate","Terrestrial","Habitat degradation/change",1994,78
+"656082",290,"LC",78,20,"Temperate","Terrestrial","Exploitation",1994,5800
+"656083",288,"LC",54.25,13.58333,"Temperate","Terrestrial","Exploitation",1994,212
+"656090",281,"LC",51.5,10.5,"Temperate","Terrestrial","Habitat degradation/change",1994,175000
+"656095",276,"LC",51.5,10.5,"Temperate","Terrestrial","Exploitation",1994,212500
+"656096",275,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat degradation/change",1994,3500000
+"656098",273,"LC",56,10,"Temperate","Terrestrial","Habitat degradation/change",1994,1300000
+"656099",272,"LC",52.5,5.75,"Temperate","Terrestrial","Habitat degradation/change",1994,60000
+"656117",254,"CR",18.23278,-66.4575,"Tropical","Terrestrial","Habitat loss",1994,38
+"656124",247,"EN",18.08722,-67.97194,"Tropical","Terrestrial","Invasive spp/genes",1994,267
+"656126",245,"EN",18.17028,-67.97194,"Tropical","Terrestrial","Invasive spp/genes",1994,25
+"656172",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1994,14600
+"656173",198,"CR",19.59278,-155.51972,"Tropical","Terrestrial","Invasive spp/genes",1994,2000
+"656181",190,"CR",-37,144,"Tropical","Terrestrial","Habitat loss",1994,36
+"656185",186,"EN",-38.48333,175.08333,"Tropical","Terrestrial","Habitat loss",1994,65
+"656205",166,"EN",6.75,39.75,"Tropical","Terrestrial","Habitat loss",1994,600
+"656206",165,"EN",7.16667,39.75,"Tropical","Terrestrial","Habitat degradation/change",1994,0
+"656260",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1994,7900
+"656302",69,"LC",11.33333,14.66667,"Tropical","Terrestrial","Habitat loss",1994,1680
+"656311",60,"LC",-2.33333,34.83333,"Tropical","Terrestrial","Disease",1994,917000
+"656323",48,"NT",4.15972,25.49889,"Tropical","Terrestrial","Exploitation",1994,32
+"656329",42,"EN",7,39.75,"Tropical","Terrestrial","Habitat degradation/change",1994,0.045
+"656346",25,"EN",-20.40444,57.42667,"Tropical","Terrestrial","Habitat loss",1994,23
+"656366",5,"EN",-20.3,57.58333,"Tropical","Terrestrial","Pollution",1994,40
+"670491",467,"LC",53.87083,9.00389,"Temperate","Freshwater","Habitat degradation/change",1995,87
+"670492",466,"LC",53.87083,9.00389,"Temperate","Freshwater","Habitat degradation/change",1995,75
+"670551",407,"VU",47,20,"Temperate","Terrestrial","Habitat degradation/change",1995,1093
+"670552",406,"VU",53.5,12,"Temperate","Terrestrial","Habitat degradation/change",1995,100
+"670592",366,"LC",38,-1.5,"Temperate","Terrestrial","Exploitation",1995,17
+"670598",360,"CR",30.08333,-9.66667,"Temperate","Terrestrial","Habitat loss",1995,50
+"670609",349,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat loss",1995,1750000
+"670610",348,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat loss",1995,2500000
+"670620",338,"LC",57,25,"Temperate","Terrestrial","Habitat loss",1995,1.6
+"670623",335,"LC",53.086,14.337,"Temperate","Terrestrial","Habitat loss",1995,174
+"670624",334,"LC",49.22083,12.61278,"Temperate","Terrestrial","Habitat loss",1995,2
+"670625",333,"LC",53.2,8.783,"Temperate","Terrestrial","Habitat loss",1995,3
+"670626",332,"LC",47.667,11.217,"Temperate","Terrestrial","Habitat loss",1995,42
+"670627",331,"LC",52.45,9.267,"Temperate","Terrestrial","Habitat loss",1995,9
+"670628",330,"LC",50.46667,10,"Temperate","Terrestrial","Habitat loss",1995,3
+"670629",329,"LC",53.633,9.6,"Temperate","Terrestrial","Habitat loss",1995,5
+"670630",328,"LC",53.2,8.783,"Temperate","Terrestrial","Habitat loss",1995,30
+"670631",327,"LC",53.467,7.35,"Temperate","Terrestrial","Habitat loss",1995,0
+"670632",326,"LC",53.11667,9.05,"Temperate","Terrestrial","Habitat loss",1995,17
+"670633",325,"LC",53.117,8.95,"Temperate","Terrestrial","Habitat loss",1995,9
+"670634",324,"LC",54.352599,9.337284,"Temperate","Terrestrial","Habitat loss",1995,8
+"670648",310,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat degradation/change",1995,1250000
+"670664",294,"LC",53.87083,9.00389,"Temperate","Terrestrial","Habitat degradation/change",1995,53
+"670668",290,"LC",78,20,"Temperate","Terrestrial","Exploitation",1995,5400
+"670669",288,"LC",54.25,13.58333,"Temperate","Terrestrial","Exploitation",1995,287
+"670677",280,"VU",58.54111,41.77306,"Temperate","Terrestrial","Habitat loss",1995,50000
+"670682",275,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat degradation/change",1995,3300000
+"670684",273,"LC",56,10,"Temperate","Terrestrial","Habitat degradation/change",1995,1220000
+"670685",272,"LC",52.5,5.75,"Temperate","Terrestrial","Habitat degradation/change",1995,50000
+"670694",263,"VU",18.08722,-67.97194,"Tropical","Terrestrial","Invasive spp/genes",1995,1155
+"670698",259,"EN",-26.41667,-48.83333,"Tropical","Terrestrial","Habitat loss",1995,400
+"670703",254,"CR",18.23278,-66.4575,"Tropical","Terrestrial","Habitat loss",1995,33
+"670710",247,"EN",18.08722,-67.97194,"Tropical","Terrestrial","Invasive spp/genes",1995,153
+"670711",246,"EN",18.01528,-66.25417,"Tropical","Terrestrial","Invasive spp/genes",1995,41
+"670712",245,"EN",18.17028,-67.97194,"Tropical","Terrestrial","Invasive spp/genes",1995,23
+"670726",231,"EN",26.35722,117.19778,"Tropical","Terrestrial","Exploitation",1995,20
+"670727",230,"NT",21.33306,70.79167,"Tropical","Terrestrial","Habitat degradation/change",1995,268
+"670728",229,"VU",21.33306,70.79167,"Tropical","Terrestrial","Habitat loss",1995,304
+"670758",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1995,14600
+"670759",198,"CR",19.59278,-155.51972,"Tropical","Terrestrial","Invasive spp/genes",1995,2000
+"670767",190,"CR",-37,144,"Tropical","Terrestrial","Habitat loss",1995,40
+"670770",187,"NT",-29.03333,167.95,"Tropical","Terrestrial","Invasive spp/genes",1995,44
+"670771",186,"EN",-38.48333,175.08333,"Tropical","Terrestrial","Habitat loss",1995,70
+"670772",185,"NT",-40.86667,174.9,"Tropical","Terrestrial","Invasive spp/genes",1995,1105
+"670773",184,"VU",-41.33333,172.33333,"Tropical","Terrestrial","Invasive spp/genes",1995,11100
+"670774",183,"VU",-38.68333,176.08333,"Tropical","Terrestrial","Invasive spp/genes",1995,38000
+"670775",182,"VU",-45.33333,167.85,"Tropical","Terrestrial","Invasive spp/genes",1995,7400
+"670776",181,"VU",-47,168,"Tropical","Terrestrial","Invasive spp/genes",1995,20000
+"670787",170,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1995,2600
+"670792",165,"EN",7.16667,39.75,"Tropical","Terrestrial","Habitat degradation/change",1995,0
+"670815",142,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1995,8200
+"670816",141,"LC",4.15972,29.49889,"Tropical","Terrestrial","Exploitation",1995,26180
+"670817",140,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1995,1000
+"670826",131,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1995,2500
+"670835",122,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1995,4300
+"670838",119,"EN",-23.83333,31.5,"Tropical","Terrestrial","Habitat degradation/change",1995,500
+"670846",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1995,8100
+"670849",108,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1995,9400
+"670852",105,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1995,400
+"670858",99,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1995,1200
+"670874",83,"VU",-30,26,"Tropical","Terrestrial","Invasive spp/genes",1995,910
+"670880",77,"NT",0.33333,32.58333,"Tropical","Terrestrial","Habitat loss",1995,100
+"670906",51,"EN",-1.89972,40.11833,"Tropical","Terrestrial","Habitat loss",1995,700
+"670912",45,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1995,5200
+"670913",44,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1995,2300
+"670915",42,"EN",7,39.75,"Tropical","Terrestrial","Habitat degradation/change",1995,0.025
+"670923",34,"LC",9,-3.5,"Tropical","Terrestrial","Exploitation",1995,5400
+"670932",25,"EN",-20.40444,57.42667,"Tropical","Terrestrial","Habitat loss",1995,35
+"670952",5,"EN",-20.3,57.58333,"Tropical","Terrestrial","Pollution",1995,52
+"685077",467,"LC",53.87083,9.00389,"Temperate","Freshwater","Habitat degradation/change",1996,75
+"685078",466,"LC",53.87083,9.00389,"Temperate","Freshwater","Habitat degradation/change",1996,87
+"685137",407,"VU",47,20,"Temperate","Terrestrial","Habitat degradation/change",1996,1223
+"685178",366,"LC",38,-1.5,"Temperate","Terrestrial","Exploitation",1996,17
+"685184",360,"CR",30.08333,-9.66667,"Temperate","Terrestrial","Habitat loss",1996,54
+"685195",349,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat loss",1996,1700000
+"685196",348,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat loss",1996,2500000
+"685206",338,"LC",57,25,"Temperate","Terrestrial","Habitat loss",1996,1.24
+"685209",335,"LC",53.086,14.337,"Temperate","Terrestrial","Habitat loss",1996,127
+"685210",334,"LC",49.22083,12.61278,"Temperate","Terrestrial","Habitat loss",1996,1
+"685211",333,"LC",53.2,8.783,"Temperate","Terrestrial","Habitat loss",1996,0
+"685212",332,"LC",47.667,11.217,"Temperate","Terrestrial","Habitat loss",1996,44
+"685213",331,"LC",52.45,9.267,"Temperate","Terrestrial","Habitat loss",1996,0
+"685214",330,"LC",50.46667,10,"Temperate","Terrestrial","Habitat loss",1996,0
+"685215",329,"LC",53.633,9.6,"Temperate","Terrestrial","Habitat loss",1996,2
+"685216",328,"LC",53.2,8.783,"Temperate","Terrestrial","Habitat loss",1996,1
+"685217",327,"LC",53.467,7.35,"Temperate","Terrestrial","Habitat loss",1996,0
+"685218",326,"LC",53.11667,9.05,"Temperate","Terrestrial","Habitat loss",1996,1
+"685219",325,"LC",53.117,8.95,"Temperate","Terrestrial","Habitat loss",1996,3
+"685234",310,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat degradation/change",1996,1100000
+"685250",294,"LC",53.87083,9.00389,"Temperate","Terrestrial","Habitat degradation/change",1996,57
+"685253",291,"LC",78,20,"Temperate","Terrestrial","Disease",1996,5000
+"685255",288,"LC",54.25,13.58333,"Temperate","Terrestrial","Exploitation",1996,387
+"685256",287,"LC",43.75,20.75,"Temperate","Terrestrial","Exploitation",1996,25
+"685268",275,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat degradation/change",1996,3300000
+"685270",273,"LC",56,10,"Temperate","Terrestrial","Habitat degradation/change",1996,1200000
+"685271",272,"LC",52.5,5.75,"Temperate","Terrestrial","Habitat degradation/change",1996,40000
+"685310",233,"EN",-1.06667,104.2,"Tropical","Terrestrial","Exploitation",1996,450
+"685340",203,"CR",27.15889,77.50861,"Tropical","Terrestrial","Pollution",1996,150
+"685344",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1996,15500
+"685345",198,"CR",19.59278,-155.51972,"Tropical","Terrestrial","Invasive spp/genes",1996,3100
+"685355",188,"EN",-42,147,"Tropical","Terrestrial","Habitat loss",1996,940
+"685357",186,"EN",-38.48333,175.08333,"Tropical","Terrestrial","Habitat loss",1996,88
+"685363",180,"NE",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1996,86.77
+"685364",179,"NE",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1996,28.14
+"685365",178,"EN",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1996,4.7
+"685367",176,"VU",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1996,94.31
+"685368",175,"EN",-19.84806,57.78083,"Tropical","Terrestrial","Invasive spp/genes",1996,1.7
+"685378",165,"EN",7.16667,39.75,"Tropical","Terrestrial","Habitat degradation/change",1996,0
+"685387",156,"LC",2,33,"Tropical","Terrestrial","Habitat loss",1996,500
+"685432",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1996,8300
+"685452",91,"LC",-2.33333,34.83333,"Tropical","Terrestrial","Exploitation",1996,6170
+"685477",66,"CR",1,38,"Tropical","Terrestrial","Disease",1996,1500
+"685490",53,"LC",0.56667,30.36667,"Tropical","Terrestrial","Habitat loss",1996,2
+"685500",43,"EN",7,39.75,"Tropical","Terrestrial","Habitat degradation/change",1996,0.22
+"685501",42,"EN",7,39.75,"Tropical","Terrestrial","Habitat degradation/change",1996,0.09
+"685504",39,"LC",2,33,"Tropical","Terrestrial","Habitat loss",1996,2600
+"685518",25,"EN",-20.40444,57.42667,"Tropical","Terrestrial","Habitat loss",1996,54
+"685538",5,"EN",-20.3,57.58333,"Tropical","Terrestrial","Pollution",1996,58
+"699663",467,"LC",53.87083,9.00389,"Temperate","Freshwater","Habitat degradation/change",1997,87
+"699664",466,"LC",53.87083,9.00389,"Temperate","Freshwater","Habitat degradation/change",1997,87
+"699723",407,"VU",47,20,"Temperate","Terrestrial","Habitat degradation/change",1997,1109
+"699764",366,"LC",38,-1.5,"Temperate","Terrestrial","Exploitation",1997,17
+"699770",360,"CR",30.08333,-9.66667,"Temperate","Terrestrial","Habitat loss",1997,32
+"699781",349,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat loss",1997,1650000
+"699782",348,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat loss",1997,2600000
+"699792",338,"LC",57,25,"Temperate","Terrestrial","Habitat loss",1997,1.09
+"699795",335,"LC",53.086,14.337,"Temperate","Terrestrial","Habitat loss",1997,143
+"699796",334,"LC",49.22083,12.61278,"Temperate","Terrestrial","Habitat loss",1997,0
+"699797",333,"LC",53.2,8.783,"Temperate","Terrestrial","Habitat loss",1997,0
+"699798",332,"LC",47.667,11.217,"Temperate","Terrestrial","Habitat loss",1997,34
+"699799",331,"LC",52.45,9.267,"Temperate","Terrestrial","Habitat loss",1997,3
+"699800",330,"LC",50.46667,10,"Temperate","Terrestrial","Habitat loss",1997,8
+"699801",329,"LC",53.633,9.6,"Temperate","Terrestrial","Habitat loss",1997,2
+"699802",328,"LC",53.2,8.783,"Temperate","Terrestrial","Habitat loss",1997,5
+"699803",327,"LC",53.467,7.35,"Temperate","Terrestrial","Habitat loss",1997,1
+"699804",326,"LC",53.11667,9.05,"Temperate","Terrestrial","Habitat loss",1997,8
+"699805",325,"LC",53.117,8.95,"Temperate","Terrestrial","Habitat loss",1997,8
+"699820",310,"LC",53.27222,7.17472,"Temperate","Terrestrial","Habitat degradation/change",1997,1100000
+"699836",294,"LC",53.87083,9.00389,"Temperate","Terrestrial","Habitat degradation/change",1997,71
+"699841",288,"LC",54.25,13.58333,"Temperate","Terrestrial","Exploitation",1997,200
+"699854",275,"LC",59.37611,24.43417,"Temperate","Terrestrial","Habitat degradation/change",1997,3500000
+"699856",273,"LC",56,10,"Temperate","Terrestrial","Habitat degradation/change",1997,1180000
+"699857",272,"LC",52.5,5.75,"Temperate","Terrestrial","Habitat degradation/change",1997,50000
+"699869",260,"VU",10,-84,"Tropical","Terrestrial","Habitat loss",1997,3750
+"699875",254,"CR",18.23278,-66.4575,"Tropical","Terrestrial","Habitat loss",1997,40
+"699896",233,"EN",-1.06667,104.2,"Tropical","Terrestrial","Exploitation",1997,450
+"699897",232,"EN",3.11667,101.68333,"Tropical","Terrestrial","Habitat loss",1997,625
+"699926",203,"CR",27.15889,77.50861,"Tropical","Terrestrial","Pollution",1997,25
+"699930",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1997,13705
+"699931",198,"CR",19.59278,-155.51972,"Tropical","Terrestrial","Invasive spp/genes",1997,4100
+"699942",187,"NT",-29.03333,167.95,"Tropical","Terrestrial","Invasive spp/genes",1997,69
+"699960",169,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1997,0.25
+"699964",165,"EN",7.16667,39.75,"Tropical","Terrestrial","Habitat degradation/change",1997,0
+"699965",164,"EN",7.16667,39.75,"Tropical","Terrestrial","Habitat degradation/change",1997,0
+"699966",163,"EN",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1997,3
+"699970",159,"LC",-3,38.66667,"Tropical","Terrestrial","Disease",1997,760
+"699976",153,"LC",13,-13,"Tropical","Terrestrial","Exploitation",1997,100
+"699977",152,"LC",-23.83333,31.5,"Tropical","Terrestrial","Disease",1997,19500
+"699985",144,"LC",-3,38.66667,"Tropical","Terrestrial","Disease",1997,5490
+"699990",139,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1997,0.05
+"699991",138,"LC",7.16667,39.71667,"Tropical","Terrestrial","Habitat degradation/change",1997,2.8
+"700011",118,"EN",-19,29,"Tropical","Terrestrial","Exploitation",1997,750
+"700018",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1997,8300
+"700075",54,"LC",-30,26,"Tropical","Terrestrial","Invasive spp/genes",1997,9500
+"700086",43,"EN",7,39.75,"Tropical","Terrestrial","Habitat degradation/change",1997,0.26
+"700087",42,"EN",7,39.75,"Tropical","Terrestrial","Habitat degradation/change",1997,0.12
+"700104",25,"EN",-20.40444,57.42667,"Tropical","Terrestrial","Habitat loss",1997,95
+"700124",5,"EN",-20.3,57.58333,"Tropical","Terrestrial","Pollution",1997,61
+"714249",467,"LC",53.87083,9.00389,"Temperate","Freshwater","Habitat degradation/change",1998,87
+"714250",466,"LC",53.87083,9.00389,"Temperate","Freshwater","Habitat degradation/change",1998,87
+"714309",407,"VU",47,20,"Temperate","Terrestrial","Habitat degradation/change",1998,1045
+"714356",360,"CR",30.08333,-9.66667,"Temperate","Terrestrial","Habitat loss",1998,33
+"714378",338,"LC",57,25,"Temperate","Terrestrial","Habitat loss",1998,1.9
+"714381",335,"LC",53.086,14.337,"Temperate","Terrestrial","Habitat loss",1998,60
+"714382",334,"LC",49.22083,12.61278,"Temperate","Terrestrial","Habitat loss",1998,1
+"714383",333,"LC",53.2,8.783,"Temperate","Terrestrial","Habitat loss",1998,13
+"714384",332,"LC",47.667,11.217,"Temperate","Terrestrial","Habitat loss",1998,31
+"714385",331,"LC",52.45,9.267,"Temperate","Terrestrial","Habitat loss",1998,9
+"714386",330,"LC",50.46667,10,"Temperate","Terrestrial","Habitat loss",1998,20
+"714387",329,"LC",53.633,9.6,"Temperate","Terrestrial","Habitat loss",1998,1
+"714388",328,"LC",53.2,8.783,"Temperate","Terrestrial","Habitat loss",1998,55
+"714389",327,"LC",53.467,7.35,"Temperate","Terrestrial","Habitat loss",1998,6
+"714390",326,"LC",53.11667,9.05,"Temperate","Terrestrial","Habitat loss",1998,20
+"714391",325,"LC",53.117,8.95,"Temperate","Terrestrial","Habitat loss",1998,14
+"714392",324,"LC",54.352599,9.337284,"Temperate","Terrestrial","Habitat loss",1998,18
+"714422",294,"LC",53.87083,9.00389,"Temperate","Terrestrial","Habitat degradation/change",1998,93
+"714427",288,"LC",54.25,13.58333,"Temperate","Terrestrial","Exploitation",1998,162
+"714461",254,"CR",18.23278,-66.4575,"Tropical","Terrestrial","Habitat loss",1998,40
+"714480",235,"CR",11.5,106.66667,"Tropical","Terrestrial","Habitat loss",1998,6
+"714482",233,"EN",-1.06667,104.2,"Tropical","Terrestrial","Exploitation",1998,450
+"714483",232,"EN",3.11667,101.68333,"Tropical","Terrestrial","Habitat loss",1998,500
+"714512",203,"CR",27.15889,77.50861,"Tropical","Terrestrial","Pollution",1998,20
+"714514",201,"EN",-9.38333,-140.05,"Tropical","Terrestrial","Invasive spp/genes",1998,0
+"714516",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",1998,14880
+"714517",198,"CR",19.59278,-155.51972,"Tropical","Terrestrial","Invasive spp/genes",1998,4800
+"714545",170,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1998,900
+"714573",142,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1998,4600
+"714575",140,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1998,300
+"714584",131,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1998,700
+"714592",123,"VU",-0.25,30.18639,"Tropical","Terrestrial","Exploitation",1998,29
+"714593",122,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1998,2200
+"714604",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1998,9000
+"714607",108,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1998,4400
+"714610",105,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1998,300
+"714616",99,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1998,500
+"714627",88,"LC",16,8,"Tropical","Terrestrial","Exploitation",1998,68
+"714632",83,"VU",-30,26,"Tropical","Terrestrial","Invasive spp/genes",1998,1200
+"714645",70,"LC",7,21,"Tropical","Terrestrial","Exploitation",1998,1500
+"714670",45,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1998,1600
+"714671",44,"LC",9,-4,"Tropical","Terrestrial","Exploitation",1998,500
+"714681",34,"LC",9,-3.5,"Tropical","Terrestrial","Exploitation",1998,5200
+"714690",25,"EN",-20.40444,57.42667,"Tropical","Terrestrial","Habitat loss",1998,100
+"714709",6,"CR",11.76667,42.65806,"Tropical","Terrestrial","Habitat loss",1998,750
+"728835",467,"LC",53.87083,9.00389,"Temperate","Freshwater","Habitat degradation/change",1999,87
+"728836",466,"LC",53.87083,9.00389,"Temperate","Freshwater","Habitat degradation/change",1999,100
+"728895",407,"VU",47,20,"Temperate","Terrestrial","Habitat degradation/change",1999,1027
+"728942",360,"CR",30.08333,-9.66667,"Temperate","Terrestrial","Habitat loss",1999,32
+"728964",338,"LC",57,25,"Temperate","Terrestrial","Habitat loss",1999,1.64
+"728967",335,"LC",53.086,14.337,"Temperate","Terrestrial","Habitat loss",1999,118
+"728968",334,"LC",49.22083,12.61278,"Temperate","Terrestrial","Habitat loss",1999,22
+"728969",333,"LC",53.2,8.783,"Temperate","Terrestrial","Habitat loss",1999,21
+"728970",332,"LC",47.667,11.217,"Temperate","Terrestrial","Habitat loss",1999,67
+"728971",331,"LC",52.45,9.267,"Temperate","Terrestrial","Habitat loss",1999,8
+"728972",330,"LC",50.46667,10,"Temperate","Terrestrial","Habitat loss",1999,14
+"728973",329,"LC",53.633,9.6,"Temperate","Terrestrial","Habitat loss",1999,2
+"728974",328,"LC",53.2,8.783,"Temperate","Terrestrial","Habitat loss",1999,20
+"728975",327,"LC",53.467,7.35,"Temperate","Terrestrial","Habitat loss",1999,1
+"728976",326,"LC",53.11667,9.05,"Temperate","Terrestrial","Habitat loss",1999,17
+"728977",325,"LC",53.117,8.95,"Temperate","Terrestrial","Habitat loss",1999,12
+"728978",324,"LC",54.352599,9.337284,"Temperate","Terrestrial","Habitat loss",1999,5
+"729008",294,"LC",53.87083,9.00389,"Temperate","Terrestrial","Habitat degradation/change",1999,100
+"729013",288,"LC",54.25,13.58333,"Temperate","Terrestrial","Exploitation",1999,150
+"729066",235,"CR",11.5,106.66667,"Tropical","Terrestrial","Habitat loss",1999,7.5
+"729098",203,"CR",27.15889,77.50861,"Tropical","Terrestrial","Pollution",1999,0
+"729103",198,"CR",19.59278,-155.51972,"Tropical","Terrestrial","Invasive spp/genes",1999,3980
+"729183",118,"EN",-19,29,"Tropical","Terrestrial","Exploitation",1999,700
+"729190",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",1999,9300
+"743392",500,"LC",59,26,"Temperate","Terrestrial","Exploitation",2000,9100
+"743395",493,"LC",60,100,"Temperate","Terrestrial","Exploitation",2000,297000
+"743481",407,"VU",47,20,"Temperate","Terrestrial","Habitat degradation/change",2000,1106
+"743550",338,"LC",57,25,"Temperate","Terrestrial","Habitat loss",2000,0.82
+"743553",335,"LC",53.086,14.337,"Temperate","Terrestrial","Habitat loss",2000,50
+"743554",334,"LC",49.22083,12.61278,"Temperate","Terrestrial","Habitat loss",2000,11
+"743555",333,"LC",53.2,8.783,"Temperate","Terrestrial","Habitat loss",2000,8
+"743556",332,"LC",47.667,11.217,"Temperate","Terrestrial","Habitat loss",2000,35
+"743557",331,"LC",52.45,9.267,"Temperate","Terrestrial","Habitat loss",2000,4
+"743558",330,"LC",50.46667,10,"Temperate","Terrestrial","Habitat loss",2000,27
+"743559",329,"LC",53.633,9.6,"Temperate","Terrestrial","Habitat loss",2000,0
+"743560",328,"LC",53.2,8.783,"Temperate","Terrestrial","Habitat loss",2000,11
+"743561",327,"LC",53.467,7.35,"Temperate","Terrestrial","Habitat loss",2000,1
+"743562",326,"LC",53.11667,9.05,"Temperate","Terrestrial","Habitat loss",2000,11
+"743563",325,"LC",53.117,8.95,"Temperate","Terrestrial","Habitat loss",2000,16
+"743564",324,"LC",54.352599,9.337284,"Temperate","Terrestrial","Habitat loss",2000,6
+"743579",309,"LC",64.41667,23.25,"Temperate","Freshwater","Invasive spp/genes",2000,105
+"743599",288,"LC",54.25,13.58333,"Temperate","Terrestrial","Exploitation",2000,187
+"743632",255,"CR",18.23278,-66.4575,"Tropical","Terrestrial","Habitat loss",2000,40
+"743683",204,"CR",31.55,74.35,"Tropical","Terrestrial","Pollution",2000,2430
+"743684",203,"CR",27.15889,77.50861,"Tropical","Terrestrial","Pollution",2000,0
+"743689",198,"CR",19.59278,-155.51972,"Tropical","Terrestrial","Invasive spp/genes",2000,2800
+"743698",189,"CR",-38.4,142.23333,"Tropical","Terrestrial","Habitat loss",2000,100
+"743768",119,"EN",-23.83333,31.5,"Tropical","Terrestrial","Habitat degradation/change",2000,350
+"743776",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",2000,8500
+"743814",73,"LC",-30,26,"Tropical","Terrestrial","Habitat loss",2000,1900
+"743867",20,"VU",-26.5,31.5,"Tropical","Terrestrial","Habitat loss",2000,0
+"743880",7,"VU",-22,24,"Tropical","Terrestrial","Habitat loss",2000,704
+"758067",407,"VU",47,20,"Temperate","Terrestrial","Habitat degradation/change",2001,1158
+"758185",288,"LC",54.25,13.58333,"Temperate","Terrestrial","Exploitation",2001,312
+"758247",226,"VU",32.83,71.62972,"Tropical","Terrestrial","Exploitation",2001,867
+"758269",204,"CR",31.55,74.35,"Tropical","Terrestrial","Pollution",2001,778
+"758275",198,"CR",19.59278,-155.51972,"Tropical","Terrestrial","Invasive spp/genes",2001,3400
+"758281",192,"CR",-25,135,"Tropical","Terrestrial","Invasive spp/genes",2001,100
+"758307",166,"EN",6.75,39.75,"Tropical","Terrestrial","Habitat loss",2001,707
+"758362",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",2001,9400
+"758425",48,"NT",4.15972,25.49889,"Tropical","Terrestrial","Exploitation",2001,30
+"772653",407,"VU",47,20,"Temperate","Terrestrial","Habitat degradation/change",2002,1200
+"772771",288,"LC",54.25,13.58333,"Temperate","Terrestrial","Exploitation",2002,137
+"772855",204,"CR",31.55,74.35,"Tropical","Terrestrial","Pollution",2002,408
+"772872",187,"NT",-29.03333,167.95,"Tropical","Terrestrial","Invasive spp/genes",2002,160
+"772948",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",2002,10500
+"772986",73,"LC",-30,26,"Tropical","Terrestrial","Habitat loss",2002,2500
+"787239",407,"VU",47,20,"Temperate","Terrestrial","Habitat degradation/change",2003,1212
+"787357",288,"LC",54.25,13.58333,"Temperate","Terrestrial","Exploitation",2003,100
+"787441",204,"CR",31.55,74.35,"Tropical","Terrestrial","Pollution",2003,162
+"787453",192,"CR",-25,135,"Tropical","Terrestrial","Invasive spp/genes",2003,113
+"787489",156,"LC",2,33,"Tropical","Terrestrial","Habitat loss",2003,449
+"787534",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",2003,11500
+"787552",93,"EN",-1.16667,29.58333,"Tropical","Terrestrial","Habitat loss",2003,380
+"787591",54,"LC",-30,26,"Tropical","Terrestrial","Invasive spp/genes",2003,18000
+"787597",48,"NT",4.15972,25.49889,"Tropical","Terrestrial","Exploitation",2003,32
+"787598",47,"NT",4.15972,25.49889,"Tropical","Terrestrial","Exploitation",2003,30
+"787606",39,"LC",2,33,"Tropical","Terrestrial","Habitat loss",2003,3374
+"801976",255,"CR",18.23278,-66.4575,"Tropical","Terrestrial","Habitat loss",2004,33
+"802032",199,"VU",25.77056,-171.7375,"Tropical","Terrestrial","Climate change",2004,9393
+"802075",156,"LC",2,33,"Tropical","Terrestrial","Habitat loss",2004,450
+"802120",111,"VU",-23.83333,31.5,"Tropical","Terrestrial","Habitat loss",2004,11454
+"802155",76,"CR",-15.62583,30.42111,"Tropical","Terrestrial","Exploitation",2004,3600
+"802183",48,"NT",4.15972,25.49889,"Tropical","Terrestrial","Exploitation",2004,15
+"802184",47,"NT",4.15972,25.49889,"Tropical","Terrestrial","Exploitation",2004,20
+"802192",39,"LC",2,33,"Tropical","Terrestrial","Habitat loss",2004,3400
+"816694",123,"VU",-0.25,30.18639,"Tropical","Terrestrial","Exploitation",2005,23
+"816740",77,"NT",0.33333,32.58333,"Tropical","Terrestrial","Habitat loss",2005,55
+"816769",48,"NT",4.15972,25.49889,"Tropical","Terrestrial","Exploitation",2005,4
+"831247",156,"LC",2,33,"Tropical","Terrestrial","Habitat loss",2006,352
+"831280",123,"VU",-0.25,30.18639,"Tropical","Terrestrial","Exploitation",2006,26
+"831350",53,"LC",0.56667,30.36667,"Tropical","Terrestrial","Habitat loss",2006,2.05
+"831364",39,"LC",2,33,"Tropical","Terrestrial","Habitat loss",2006,4660
+"845866",123,"VU",-0.25,30.18639,"Tropical","Terrestrial","Exploitation",2007,17
+"860452",123,"VU",-0.25,30.18639,"Tropical","Terrestrial","Exploitation",2008,19
+"889517",230,"NT",21.33306,70.79167,"Tropical","Terrestrial","Habitat degradation/change",2010,310
+"889591",156,"LC",2,33,"Tropical","Terrestrial","Habitat loss",2010,1409
+"889654",93,"EN",-1.16667,29.58333,"Tropical","Terrestrial","Habitat loss",2010,480
+"889708",39,"LC",2,33,"Tropical","Terrestrial","Habitat loss",2010,4099
+"904294",39,"LC",2,33,"Tropical","Terrestrial","Habitat loss",2011,4001
